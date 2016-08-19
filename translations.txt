@@ -2650,7 +2650,7 @@ fr: {
  kibbleRecipe: "Recette pour cette croquette",
  favoriteKibble: "Croquette favorite",
  craftedIn: "A fabriquer dans",
- producesKibble: "",
+ producesKibble: "Produit la croquette",
  notApplicable: "Non applicable",
  saddle: "Selle",
  Smithy: "Atelier",
