@@ -2958,11 +2958,11 @@ fr: {
  "Woolly Rhino Horn": "Corne de Rhinocéros laineux",
  
  //Additional recipe info
- "Cooking Pot": "",
- "Beer Barrel": "",
- "Preserving Bin": "",
- spoils: "",
- duration: "",
+ "Cooking Pot": "Marmite suspendue",
+ "Beer Barrel": "Tonneau de Bière",
+ "Preserving Bin": "Armoire de conservation",
+ spoils: "Avariée",
+ duration: "Temps",
  secondsShort: "",
  minutesShort: "",
  hoursShort: "",
