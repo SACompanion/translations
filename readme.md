@@ -3,7 +3,7 @@ Survive ARK Companion is the most feature-complete companion app available for A
 Translations will be carried out through the use of GitHub and later added to the app. If you would like to help out, make sure to read on!
 
 ## How to contribute
-There is a file called [translations.txt](translations.txt) that you can edit. In order to do this, either fork the repository and make the changes, or simple [go to the file](translations.txt) and click on the pencil icon to edit it directly (top right corner). Scroll down to the language in which you want to translate the phrases and start working.
+There are translations files for each language that you can edit. You can find the appropriate language by looking at the country identifier at the end. So if you want to translate to German, you would look for the file `translations_de.txt`. In order to edit the file, either fork the repository and make the changes, or simply go to the file and click on the pencil icon to edit it directly (top right corner). Each file contains the original English text first, and beneath that you can enter your translation.
 
 Make sure to add your translation **between the two empty quotations marks**. You can see an example of this by looking at the initial English translations. 
 
