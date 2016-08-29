@@ -7,7 +7,7 @@ There are translations files for each language that you can edit. You can find t
 
 Make sure to add your translation **between the two empty quotations marks**. You can see an example of this by looking at the initial English translations. 
 
-When you're happy with your changes, open a [pull request](https://help.github.com/articles/using-pull-requests/) so they can be added. Don't forget to include your name / username that you want to have added to the [contributors.md](contributors.md) file. The people in this file will be added to the list of contributors that will be added to the app!
+When you're happy with your changes, open a [pull request](https://help.github.com/articles/using-pull-requests/) so they can be added. Please open pull requests often, so other people can see what has been done already! Don't forget to include your name / username that you want to have added to the [contributors.md](contributors.md) file. The people in this file will be added to the list of contributors that will be available in the app!
 ### Comments
 Throughout the translations file, you will see some comments (preceded with `//`). These are there to give you an indication where the translation is used. That way, if you aren't sure about a translation, you can check if it would fit by going to the right part in the app. These comments should not be translated, as they are only used to give context to the rest of the words.
 ### Variables
