@@ -13,7 +13,8 @@ Throughout the translations file, you will see some comments (preceded with `//`
 ### Variables
 Sometimes you will run into constructs such as `{0}` or `{1}`. These are variables and should be included in your translation! Later on, the app will substitute these constructs by the appropriate words. An example would be this: `Level required: {0}` would become `Level required: 40` in the app. 
 ## Additional info
-
+### Want to help without use of GitHub?
+If you want to help translate the app to your language, but can't get it to work through GitHub or simply don't like using it: [send me a mail](http://www.survive-ark.com/contact) and we can discuss an alternative way! :)
 ### Unsure about translation?
 If you are unsure about a translation, it is better to leave it blank and [open an issue](https://github.com/SACompanion/translations/issues/new) to discuss about it with other people. Just list the word(s) you are uncertain of (and in the require language) and other people might be able to help you out with it! 
 ### Missing your language?
