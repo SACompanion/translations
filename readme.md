@@ -35,7 +35,7 @@ In case you come across a part of the app that is not yet translated, please [op
 | ja | Japanese | 0% |
 | nb | Norwegian | 0% |
 | nl | Dutch | 0% |
-| pl | Polish | 0% |
+| pl | Polish | 10% |
 | pt | Portuguese | 0% |
 | ru | Russian | 0% |
 | tr | Turkish | 0% |
