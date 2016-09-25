@@ -22,6 +22,10 @@ en:  "ARK Maps",
 es:  "",   
 en:  "Admin Commands",
 es:  "",   
+en:  "Harvesting",
+es:  "", //NEW   
+en:  "Dino drops",
+es:  "", //NEW   
 en:  "Achievements",
 es:  "",   
 en:  "Diseases & Cures",
@@ -158,6 +162,8 @@ en:  "The crossbow does a little bit of instant torpor damage and the rest of th
 es:  "",   
 en:  "The compound bow is slightly better than the bow, but doesn't exceed the crossbow in dealing torpor. Therefore it is not the most efficient bow for taming.",
 es:  "",   
+en:  "The boomerang can be used to knockout creatures from a distance, without using ammo. If the Boomerang hits a target, it will fly straight back to you. If you miss, it will return by flying back to your counter-clockwise.",
+es:  "", //NEW   
 en:  "The longneck rifle can make use of the new tranquilizer darts to knock out enemies. Currently, these are one of the best weapons to apply torpor to a creature.",
 es:  "",   
 en:  "Throwing rocks at your opponent is better than using your fists, however your melee damage does not apply here since it is about projectiles. Make sure you input the damage percentage of your slingshot in the field.",
@@ -184,6 +190,8 @@ en:  "Compound Bow",
 es:  "",   
 en:  "Crossbow",
 es:  "",   
+en:  "Boomerang",
+es:  "", //NEW   
 en:  "Longneck and Dart",
 es:  "",   
 en:  "Slingshot",
@@ -212,8 +220,10 @@ en:  "Favorite Kibble ({0})",
 es:  "",   
 en:  "Favorite Kibble",
 es:  "",   
-en:  "Preffered by {0}",
+en:  "Preferred by {0}",
 es:  "",   
+en:  "Preferred by",
+es:  "", //NEW   
 en:  "Crafted in",
 es:  "",   
 en:  "Produces Kibble",
@@ -338,6 +348,12 @@ en:  "Affected By",
 es:  "",   
 en:  "Fits Through",
 es:  "",   
+en:  "Harvests",
+es:  "", //NEW   
+en:  "Drops",
+es:  "", //NEW   
+en:  "Star ratings are out of 5",
+es:  "", //NEW   
 en:  "For even more creature info check out the",
 es:  "",   
 en:  "{0} Wiki Page!",
@@ -348,6 +364,8 @@ en:  "Pteranodon",
 es:  "",   
 en:  "Quetzalcoatlus",
 es:  "",   
+en:  "Wyvern",
+es:  "", //NEW   
 
 //Breeding calculator
 en:  "General Info",
@@ -516,6 +534,8 @@ en:  "ARK Maps Overview",
 es:  "",   
 en:  "The Island Map",
 es:  "",   
+en:  "Scorched Earth Map",
+es:  "", //NEW   
 en:  "The Center Map",
 es:  "",   
 en:  "Valhalla Map",
@@ -528,6 +548,8 @@ en:  "Item Spawn Commands",
 es:  "",   
 en:  "Dino Spawn Commands",
 es:  "",   
+en:  "General Admin Commands",
+es:  "", //NEW   
 en:  "Command copied to clipboard!",
 es:  "",   
 en:  "Copy",
@@ -652,18 +674,36 @@ en:  "Wolf Fur",
 es:  "",   
 en:  "Dark Wolf Fur",
 es:  "",   
+en:  "Search...",
+es:  "", //NEW   
+en:  "Keep in mind that you need to use the EnableCheats command first before most of the commands will work on a multiplayer server! This is not necessary when playing singleplayer. Also note that some of the parameters have to be filled in by yourself (e.g. Steam64ID or PlayerUE4ID)",
+es:  "", //NEW   
+en:  "Tip: You can click on a command to have it copied to your clipboard. (Click to dismiss)",
+es:  "", //NEW   
+
+//Dino harvesting / drops
+en:  "Dropped by",
+es:  "", //NEW   
+en:  "Top harvesters",
+es:  "", //NEW   
+en:  "Star ratings are out of 5 and based on tests. If you think something is incorrect or outdated, let me know!",
+es:  "", //NEW   
 
 //Dino abilities
 en:  "Thatch",
 es:  "",   
 en:  "Wood",
 es:  "",   
+en:  "Adobe",
+es:  "", //NEW   
 en:  "Stone",
 es:  "",   
 en:  "Metal",
 es:  "",   
 en:  "Bola",
 es:  "",   
+en:  "Plant Y Trap",
+es:  "", //NEW   
 en:  "Chain Bola",
 es:  "",   
 en:  "Bear Trap",
@@ -1099,7 +1139,9 @@ en:  "Select the theme you want to use in the app!",
 es:  "", //NEW   
 
 //About
-en:  "Survive ARK Companion is a fan-made app created by {0} for the game {1}",
+en:  "Survive ARK Companion is a fan-made app created by",
+es:  "",   
+en:  "for the game",
 es:  "",   
 en:  "Features",
 es:  "",   
@@ -1117,8 +1159,10 @@ en:  "Rate App",
 es:  "",   
 en:  "Feedback",
 es:  "",   
-en:  "Ran into any problems, data being inaccurate or simply a bug? You can report it {0} or leave a reply on {1} or {2}",
-es:  "",   
+en:  "Ran into any problems, data being inaccurate or simply a bug? You can report it",
+es:  "", //NEW   
+en:  "or leave a reply on",
+es:  "", //NEW   
 
 //Contributors
 en:  "The people on this page have made contributions to the app. New contributions are always welcome! You can for instance help translate the app or send your own suggestions by using the buttons below!",
