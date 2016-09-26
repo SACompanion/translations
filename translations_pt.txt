@@ -21,7 +21,11 @@ pt:  "Perfil do sobrevivente",
 en:  "ARK Maps",
 pt:  "Mapas do ARK",   
 en:  "Admin Commands",
-pt:  "Comandos de Admin",   
+pt:  "Comandos de Admin",  
+en:  "Harvesting",
+fr:  "", //NEW   
+en:  "Dino drops",
+fr:  "", //NEW    
 en:  "Achievements",
 pt:  "Conquistas",   
 en:  "Diseases & Cures",
@@ -157,7 +161,9 @@ pt:  "",
 en:  "The crossbow does a little bit of instant torpor damage and the rest of the torpor is added over the next 4 seconds. This means that for the best torpor-to-damage ratio, you need to wait 5 seconds between shots. However, since torpor stacks, you can also fire arrows as quickly as you can. This is especially useful for creatures with high torpor regeneration or high health.",
 pt:  "",   
 en:  "The compound bow is slightly better than the bow, but doesn't exceed the crossbow in dealing torpor. Therefore it is not the most efficient bow for taming.",
-pt:  "",   
+pt:  "",  
+en:  "The boomerang can be used to knockout creatures from a distance, without using ammo. If the Boomerang hits a target, it will fly straight back to you. If you miss, it will return by flying back to your counter-clockwise.",
+fr:  "", //NEW    
 en:  "The longneck rifle can make use of the new tranquilizer darts to knock out enemies. Currently, these are one of the best weapons to apply torpor to a creature.",
 pt:  "",   
 en:  "Throwing rocks at your opponent is better than using your fists, however your melee damage does not apply here since it is about projectiles. Make sure you input the damage percentage of your slingshot in the field.",
@@ -184,6 +190,8 @@ en:  "Compound Bow",
 pt:  "Arco Composto",   
 en:  "Crossbow",
 pt:  "Besta",   
+en:  "Boomerang",
+fr:  "", //NEW 
 en:  "Longneck and Dart",
 pt:  "",   
 en:  "Slingshot",
@@ -214,6 +222,8 @@ en:  "Favorite Kibble",
 pt:  "Ração favorita",   
 en:  "Preffered by {0}",
 pt:  "",   
+en:  "Preferred by",
+fr:  "", //NEW 
 en:  "Crafted in",
 pt:  "",   
 en:  "Produces Kibble",
@@ -338,6 +348,12 @@ en:  "Affected By",
 pt:  "",   
 en:  "Fits Through",
 pt:  "",   
+en:  "Harvests",
+fr:  "", //NEW   
+en:  "Drops",
+fr:  "", //NEW   
+en:  "Star ratings are out of 5",
+fr:  "", //NEW   
 en:  "For even more creature info check out the",
 pt:  "",   
 en:  "{0} Wiki Page!",
@@ -347,7 +363,9 @@ pt:  "Argentavis",
 en:  "Pteranodon",
 pt:  "Pteranodon",   
 en:  "Quetzalcoatlus",
-pt:  "Quetzalcoatlus",   
+pt:  "Quetzalcoatlus",  
+en:  "Wyvern",
+fr:  "", //NEW   
 
 //Breeding calculator
 en:  "General Info",
@@ -515,7 +533,9 @@ pt:  "",
 en:  "ARK Maps Overview",
 pt:  "",   
 en:  "The Island Map",
-pt:  "O mapa da Ilha",   
+pt:  "O mapa da Ilha", 
+en:  "Scorched Earth Map",
+fr:  "", //NEW     
 en:  "The Center Map",
 pt:  "O mapa do Centro",   
 en:  "Valhalla Map",
@@ -527,7 +547,9 @@ pt:  "Ver comandos de Admin",
 en:  "Item Spawn Commands",
 pt:  "Comandos para invocar itens",   
 en:  "Dino Spawn Commands",
-pt:  "Comandos para invocar Dinos",   
+pt:  "Comandos para invocar Dinos", 
+en:  "General Admin Commands",
+fr:  "", //NEW     
 en:  "Command copied to clipboard!",
 pt:  "Comando copiado",   
 en:  "Copy",
@@ -651,19 +673,37 @@ pt:  "Pé Grande5",
 en:  "Wolf Fur",
 pt:  "Pele de Lobo",   
 en:  "Dark Wolf Fur",
-pt:  "Pele de Lobo escuro",   
+pt:  "Pele de Lobo escuro", 
+en:  "Search...",
+fr:  "", //NEW   
+en:  "Keep in mind that you need to use the EnableCheats command first before most of the commands will work on a multiplayer server! This is not necessary when playing singleplayer. Also note that some of the parameters have to be filled in by yourself (e.g. Steam64ID or PlayerUE4ID)",
+fr:  "", //NEW   
+en:  "Tip: You can click on a command to have it copied to your clipboard. (Click to dismiss)",
+fr:  "", //NEW
+
+//Dino harvesting / drops
+en:  "Dropped by",
+fr:  "", //NEW   
+en:  "Top harvesters",
+fr:  "", //NEW   
+en:  "Star ratings are out of 5 and based on tests. If you think something is incorrect or outdated, let me know!",
+fr:  "", //NEW  
 
 //Dino abilities
 en:  "Thatch",
 pt:  "Palha",   
 en:  "Wood",
-pt:  "Madeira",   
+pt:  "Madeira", 
+en:  "Adobe",
+fr:  "", //NEW    
 en:  "Stone",
 pt:  "Pedra",   
 en:  "Metal",
 pt:  "Metal",   
 en:  "Bola",
 pt:  "Bola",   
+en:  "Plant Y Trap",
+fr:  "", //NEW   
 en:  "Chain Bola",
 pt:  "Cadeia de Bola",   
 en:  "Bear Trap",
@@ -1099,8 +1139,10 @@ en:  "Select the theme you want to use in the app!",
 pt:  "Selecione o tema que você quer usar no App!", //NEW   
 
 //About
-en:  "Survive ARK Companion is a fan-made app created by {0} for the game {1}",
-pt:  "Survive ARK Companion é uma App de fãs, criado por {0} para o jogo {1}",   
+en:  "Survive ARK Companion is a fan-made app created by",
+pt:  "Survive ARK Companion é uma App de fãs, criado por",
+en:	 "for the game",
+pt:  "para o jogo",   
 en:  "Features",
 pt:  "Características",   
 en:  "Upcoming features",
@@ -1117,7 +1159,9 @@ en:  "Rate App",
 pt:  "Avalie o App",   
 en:  "Feedback",
 pt:  "Feedback",   
-en:  "Ran into any problems, data being inaccurate or simply a bug? You can report it {0} or leave a reply on {1} or {2}",
+en:  "Ran into any problems, data being inaccurate or simply a bug? You can report it", //You can report it [here]
+pt:  "", 
+en:  "or leave a reply on", //or leave a reply on Facebook
 pt:  "",   
 
 //Contributors
