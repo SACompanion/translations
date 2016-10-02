@@ -23,9 +23,9 @@ fr:  "Les maps",
 en:  "Admin Commands",
 fr:  "Commandes admin",   
 en:  "Harvesting",
-fr:  "", //NEW   
+fr:  "Récolte", //NEW   
 en:  "Dino drops",
-fr:  "", //NEW   
+fr:  "Drop des dinos", //NEW   
 en:  "Achievements",
 fr:  "Succès",   
 en:  "Diseases & Cures",
@@ -101,7 +101,7 @@ fr:  "Nombre de Narcotique",
 en:  "Narcoberries needed",
 fr:  "Nombre de Narcoberries",   
 en:  "Time to refill",
-fr:  "Temps pour en re donner",   
+fr:  "Temps avant de lui en re donner",   
 en:  "Time to drain torpor",
 fr:  "Temps de drainage",   
 en:  "Total tame time",
@@ -191,7 +191,7 @@ fr:  "Arc à poulie",
 en:  "Crossbow",
 fr:  "Arbalète",   
 en:  "Boomerang",
-fr:  "", //NEW   
+fr:  "Boomeran", //NEW   
 en:  "Longneck and Dart",
 fr:  "Fusil à canon long et fléchettes",   
 en:  "Slingshot",
@@ -225,7 +225,7 @@ fr:  "Préféré par ({0}) ",
 en:  "Preferred by",
 fr:  "A fabriquer dans",   
 en:  "Crafted in",
-fr:  "", //NEW   
+fr:  "A fabriquer dans", //NEW   
 en:  "Produces Kibble",
 fr:  "Produit la croquette",   
 en:  "Not applicable",
@@ -243,7 +243,7 @@ fr:  "Inventaire",
 en:  "The timers do not apply to non-violent tames",
 fr:  "Les timers ne s'appliquent pas sur les apprivoisements non violents",   
 en:  "Starve Timer",
-fr:  "Temps avant la faim",   
+fr:  "Temps avant la",   
 en:  "Target food",
 fr:  "Nourriture choisit",   
 en:  "Current food",
@@ -254,14 +254,14 @@ en:  "Starved in",
 fr:  "Aura faim dans",   
 en:  "Warn me when there are ",
 fr:  "Faire attention dans",   
-en:  " minutes left",
+en:  "minutes left",
 fr:  "minutes",   
 en:  "Start",
 fr:  "Début",   
 en:  "Stop",
 fr:  "Fin",   
 en:  "Narcotics Timer",
-fr:  "Temps des narcotiques",   
+fr:  "Temps avec des narcotiques",   
 en:  "Toggle:",
 fr:  "Choisir",   
 en:  "Current torpor",
@@ -285,7 +285,7 @@ fr:  "Consulter les explications",
 en:  "Breeding Information",
 fr:  "Information sur la gestation",   
 en:  "The {0} is not breedable yet, or no information is currently known.",
-fr:  "{0} Ne peut pas s'accoupler",   
+fr:  "{0} ne peut pas s'accoupler",   
 en:  "Temperature Range",
 fr:  "Température",   
 en:  "Total time",
@@ -343,17 +343,17 @@ fr:  "Localisation",
 en:  "Carryable by",
 fr:  "Peut se faire transporter par",   
 en:  "Can Damage",
-fr:  "Peu faire des dégâts",   
+fr:  "Peu faire des dégâts sur",   
 en:  "Affected By",
 fr:  "Affecté par",   
 en:  "Fits Through",
 fr:  "Passe à travers",   
 en:  "Harvests",
-fr:  "", //NEW   
+fr:  "Récolte", //NEW   
 en:  "Drops",
-fr:  "", //NEW   
+fr:  "Donne", //NEW   
 en:  "Star ratings are out of 5",
-fr:  "", //NEW   
+fr:  "Les étoiles sont sur 5", //NEW   
 en:  "For even more creature info check out the",
 fr:  "Plus d'informations",   
 en:  "{0} Wiki Page!",
@@ -365,7 +365,7 @@ fr:  "Pteranodon",
 en:  "Quetzalcoatlus",
 fr:  "Quetzalcoatlus",   
 en:  "Wyvern",
-fr:  "", //NEW   
+fr:  "Wyvern", //NEW   
 
 //Breeding calculator
 en:  "General Info",
@@ -483,7 +483,7 @@ fr:  "Énergie ",
 en:  "Oxygen",
 fr:  "Oxygène ",   
 en:  "Food",
-fr:  "Faim ",   
+fr:  "Nourriture",   
 en:  "Weight",
 fr:  "Poids",   
 en:  "Damage (Absolute)",
@@ -535,7 +535,7 @@ fr:  "Les maps",
 en:  "The Island Map",
 fr:  "The Island",   
 en:  "Scorched Earth Map",
-fr:  "", //NEW   
+fr:  "Scorched Earth", //NEW   
 en:  "The Center Map",
 fr:  "The Center",   
 en:  "Valhalla Map",
@@ -549,7 +549,7 @@ fr:  "Spawn des objets",
 en:  "Dino Spawn Commands",
 fr:  "Spawn des dinosaures",   
 en:  "General Admin Commands",
-fr:  "", //NEW   
+fr:  "Commandes générales", //NEW   
 en:  "Command copied to clipboard!",
 fr:  "Commande copiée",   
 en:  "Copy",
@@ -675,19 +675,19 @@ fr:  "Gris très clair",
 en:  "Dark Wolf Fur",
 fr:  "Gris foncé",   
 en:  "Search...",
-fr:  "", //NEW   
+fr:  "Recherche en cours...", //NEW   
 en:  "Keep in mind that you need to use the EnableCheats command first before most of the commands will work on a multiplayer server! This is not necessary when playing singleplayer. Also note that some of the parameters have to be filled in by yourself (e.g. Steam64ID or PlayerUE4ID)",
-fr:  "", //NEW   
+fr:  "Gardez à l'esprit que vous avez besoin d'utiliser la commande EnableCheats avantla plupart des commandes sinon cela ne fonctionnera pas sur un serveur multijoueur ! Ce n'est pas nécessaire lorsque vous jouez en solo. Notez également que certains des paramètres doivent être remplis par vous-même (par exemple Steam64ID ou le PlayerUE4ID)", //NEW   
 en:  "Tip: You can click on a command to have it copied to your clipboard. (Click to dismiss)",
-fr:  "", //NEW   
+fr:  "Astuce: Vous pouvez cliquer sur une commande pour l'avoir en copié dans votre presse-papiers. (Cliquez pour fermer)", //NEW   
 
 //Dino harvesting / drops
 en:  "Dropped by",
-fr:  "", //NEW   
+fr:  "Disponible sur les dinos suivants", //NEW   
 en:  "Top harvesters",
-fr:  "", //NEW   
+fr:  "Les meilleurs récolteurs", //NEW   
 en:  "Star ratings are out of 5 and based on tests. If you think something is incorrect or outdated, let me know!",
-fr:  "", //NEW   
+fr:  "Les étoiles sont sur 5 et sur la base de tests. Si vous pensez que quelque chose est incorrect, laissez-le moi savoir !", //NEW   
 
 //Dino abilities
 en:  "Thatch",
@@ -695,7 +695,7 @@ fr:  "Branchages",
 en:  "Wood",
 fr:  "Bois",   
 en:  "Adobe",
-fr:  "", //NEW   
+fr:  "Argile", //NEW   
 en:  "Stone",
 fr:  "Pierre",   
 en:  "Metal",
@@ -703,7 +703,7 @@ fr:  "Métal",
 en:  "Bola",
 fr:  "Bola",   
 en:  "Plant Y Trap",
-fr:  "", //NEW   
+fr:  "Piège de plante Y", //NEW   
 en:  "Chain Bola",
 fr:  "Bola en métal",   
 en:  "Bear Trap",
