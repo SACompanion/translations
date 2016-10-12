@@ -3,7 +3,9 @@ pt:  "",
 
 //Menu entries
 en:  "Pro Version (Ad free)",
-pt:  "Versão Pro",   
+pt:  "Versão Pro",
+en:  "Dashboard", 
+pt:  "", //NEW     
 en:  "Taming Calculator",
 pt:  "Calculadora de domesticação",   
 en:  "Breeding Calculator",
@@ -281,6 +283,38 @@ pt:  "",
 en:  "Check the timer explanation",
 pt:  "",   
 
+//Timer explanation //NEW
+en:  "Why starve taming?",
+pt:  "",   
+en:  "To get things straight: starve taming does not have any influence on the total time your tame will take. Instead, it is mostly used to minimize risk on important tames. The advantage of starve taming is that you don't use food yet, meaning that you can leave a tame if it for instance gets hit (and the effectiveness gets lowered), without losing your precious kibble.",
+pt:  "",   
+en:  "How does the starve timer work?",
+pt:  "",   
+en:  "First, make sure you have selected the right creature, level and food you are using for the tame.",
+pt:  "",   
+en:  "Fill in the max food stat of the creature you have knocked unconscious in the 'Max food' field",
+pt:  "",   
+en:  "Fill in the current food value of the creature, keep in mind that this can go down pretty quickly.",
+pt:  "",   
+en:  "Optionally; set an alarm by checking the box and setting a value when you want to be noticed. Tip: make sure you will have enough time to get back to your game when you hear the alarm.",
+pt:  "",   
+en:  "Press start to start the timer. You can also leave the app (and even kill it), as the timer will work in the background in those cases.",
+pt:  "",   
+en:  "What does the target food indicate?",
+pt:  "",   
+en:  "Some creatures will not have a high enough food stat to be fully starved. If that is the case, the target food will be negative and indicate that, when its food has reached 0, can not be tamed in one go. If this is the case, the starve timer will count down until the food has reached 0. If the creature has a high enough food stat, the target food value will indicate when the creature has lost enough food to eat everything in one go. If you've then reached this target value, fill the creature up and watch it eat everything until tamed!",
+pt:  "",   
+en:  "How does the narcotic timer work?",
+pt:  "",   
+en:  "Simply put, the narcotic timer counts down from the given torpor amount until 0. You only have to fill in the creature's current torpor and press start for it to work.",
+pt:  "",   
+en:  "Tip: Make sure to set the alarm in a way that you will be able to reach the creature in time; it WILL wake up if it reaches 0.",
+pt:  "",   
+en:  "What do the icons above the timer mean?",
+pt:  "",   
+en:  "You can toggle between the use of narcotics and narcoberries by using the icons above the timer. This will change the indications of the amount and time needed to fully refill the creature's torpor.",
+pt:  "",   
+
 //Breeding tab
 en:  "Breeding Information",
 pt:  "",   
@@ -365,7 +399,9 @@ pt:  "Pteranodon",
 en:  "Quetzalcoatlus",
 pt:  "Quetzalcoatlus",  
 en:  "Wyvern",
-fr:  "", //NEW   
+pt:  "", //NEW   
+en:  "Tapejara", 
+pt:  "", //NEW  
 
 //Breeding calculator
 en:  "General Info",
@@ -834,6 +870,10 @@ en:  "Beer",
 pt:  "Cerveja",   
 en:  "Increases insulation and damage resistance, makes you consume less water. Note that it will also rapidly deplete your stamina and after 2 minutes you'll enter a 'hangover' state for 1 minute; keeping your stamina at 0 and preventing the effects of any other dishes.",
 pt:  "",   
+en:  "Cactus Broth", 
+pt:  "", //NEW   
+en:  "This Scorched Earth dish reduces water consumption and makes you less visible to wild animals (much like the bug repellant)", 
+pt:  "", //NEW   
 en:  "Calien Soup",
 pt:  "",   
 en:  "Adds +50 hyperthermal insulation and slows water consumption by 25% (good for warm areas).",
@@ -891,7 +931,9 @@ pt:  "Amarberry",
 en:  "Azulberry",
 pt:  "Azulberry",   
 en:  "Black Pearl",
-pt:  "Pérola Preta",   
+pt:  "Pérola Preta", 
+en:  "Cactus Sap", 
+pt:  "", //NEW    
 en:  "Citronal",
 pt:  "",   
 en:  "Cooked Meat",
@@ -1205,3 +1247,18 @@ pt:  "",
 //No search result
 en:  "Sorry, but we were not able to find what you were looking for. Make sure what you are searching for is spelled correctly and try again!"
 pt:  "",   
+
+//Days of the week 
+en:  "Sunday",
+pt:  "",   
+en:  "Monday",
+pt:  "",   
+en:  "Tuesday",
+pt:  "",   
+en:  "Wednesday",
+pt:  "",   
+en:  "Thursday",
+pt:  "",   
+en:  "Friday",
+pt:  "",   
+en:  "Saturday"pt:  ""   

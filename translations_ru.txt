@@ -4,6 +4,8 @@ ru:  "",
 //Menu entries
 en:  "Pro Version (Ad free)",
 ru:  "",   
+en:  "Dashboard", 
+ru:  "", //NEW   
 en:  "Taming Calculator",
 ru:  "",   
 en:  "Breeding Calculator",
@@ -23,9 +25,9 @@ ru:  "",
 en:  "Admin Commands",
 ru:  "",   
 en:  "Harvesting",
-ru:  "", //NEW   
+ru:  "",   
 en:  "Dino drops",
-ru:  "", //NEW   
+ru:  "",   
 en:  "Achievements",
 ru:  "",   
 en:  "Diseases & Cures",
@@ -163,7 +165,7 @@ ru:  "",
 en:  "The compound bow is slightly better than the bow, but doesn't exceed the crossbow in dealing torpor. Therefore it is not the most efficient bow for taming.",
 ru:  "",   
 en:  "The boomerang can be used to knockout creatures from a distance, without using ammo. If the Boomerang hits a target, it will fly straight back to you. If you miss, it will return by flying back to your counter-clockwise.",
-ru:  "", //NEW   
+ru:  "",   
 en:  "The longneck rifle can make use of the new tranquilizer darts to knock out enemies. Currently, these are one of the best weapons to apply torpor to a creature.",
 ru:  "",   
 en:  "Throwing rocks at your opponent is better than using your fists, however your melee damage does not apply here since it is about projectiles. Make sure you input the damage percentage of your slingshot in the field.",
@@ -191,7 +193,7 @@ ru:  "",
 en:  "Crossbow",
 ru:  "",   
 en:  "Boomerang",
-ru:  "", //NEW   
+ru:  "",   
 en:  "Longneck and Dart",
 ru:  "",   
 en:  "Slingshot",
@@ -211,7 +213,7 @@ ru:  "",
 en:  "Pachy",
 ru:  "",   
 en:  "Back to calculator",
-ru:  "Back to calculator",   
+ru:  "",   
 
 //Recipe tab
 en:  "Kibble Recipe",
@@ -223,7 +225,7 @@ ru:  "",
 en:  "Preferred by {0}",
 ru:  "",   
 en:  "Preferred by",
-ru:  "", //NEW   
+ru:  "",   
 en:  "Crafted in",
 ru:  "",   
 en:  "Produces Kibble",
@@ -279,6 +281,38 @@ ru:  "",
 en:  "Need some help with the timers?",
 ru:  "",   
 en:  "Check the timer explanation",
+ru:  "",   
+
+//Timer explanation //NEW
+en:  "Why starve taming?",
+ru:  "",   
+en:  "To get things straight: starve taming does not have any influence on the total time your tame will take. Instead, it is mostly used to minimize risk on important tames. The advantage of starve taming is that you don't use food yet, meaning that you can leave a tame if it for instance gets hit (and the effectiveness gets lowered), without losing your precious kibble.",
+ru:  "",   
+en:  "How does the starve timer work?",
+ru:  "",   
+en:  "First, make sure you have selected the right creature, level and food you are using for the tame.",
+ru:  "",   
+en:  "Fill in the max food stat of the creature you have knocked unconscious in the 'Max food' field",
+ru:  "",   
+en:  "Fill in the current food value of the creature, keep in mind that this can go down pretty quickly.",
+ru:  "",   
+en:  "Optionally; set an alarm by checking the box and setting a value when you want to be noticed. Tip: make sure you will have enough time to get back to your game when you hear the alarm.",
+ru:  "",   
+en:  "Press start to start the timer. You can also leave the app (and even kill it), as the timer will work in the background in those cases.",
+ru:  "",   
+en:  "What does the target food indicate?",
+ru:  "",   
+en:  "Some creatures will not have a high enough food stat to be fully starved. If that is the case, the target food will be negative and indicate that, when its food has reached 0, can not be tamed in one go. If this is the case, the starve timer will count down until the food has reached 0. If the creature has a high enough food stat, the target food value will indicate when the creature has lost enough food to eat everything in one go. If you've then reached this target value, fill the creature up and watch it eat everything until tamed!",
+ru:  "",   
+en:  "How does the narcotic timer work?",
+ru:  "",   
+en:  "Simply put, the narcotic timer counts down from the given torpor amount until 0. You only have to fill in the creature's current torpor and press start for it to work.",
+ru:  "",   
+en:  "Tip: Make sure to set the alarm in a way that you will be able to reach the creature in time; it WILL wake up if it reaches 0.",
+ru:  "",   
+en:  "What do the icons above the timer mean?",
+ru:  "",   
+en:  "You can toggle between the use of narcotics and narcoberries by using the icons above the timer. This will change the indications of the amount and time needed to fully refill the creature's torpor.",
 ru:  "",   
 
 //Breeding tab
@@ -349,11 +383,11 @@ ru:  "",
 en:  "Fits Through",
 ru:  "",   
 en:  "Harvests",
-ru:  "", //NEW   
+ru:  "",   
 en:  "Drops",
-ru:  "", //NEW   
+ru:  "",   
 en:  "Star ratings are out of 5",
-ru:  "", //NEW   
+ru:  "",   
 en:  "For even more creature info check out the",
 ru:  "",   
 en:  "{0} Wiki Page!",
@@ -365,6 +399,8 @@ ru:  "",
 en:  "Quetzalcoatlus",
 ru:  "",   
 en:  "Wyvern",
+ru:  "",   
+en:  "Tapejara", 
 ru:  "", //NEW   
 
 //Breeding calculator
@@ -535,7 +571,7 @@ ru:  "",
 en:  "The Island Map",
 ru:  "",   
 en:  "Scorched Earth Map",
-ru:  "", //NEW   
+ru:  "",   
 en:  "The Center Map",
 ru:  "",   
 en:  "Valhalla Map",
@@ -549,7 +585,7 @@ ru:  "",
 en:  "Dino Spawn Commands",
 ru:  "",   
 en:  "General Admin Commands",
-ru:  "", //NEW   
+ru:  "",   
 en:  "Command copied to clipboard!",
 ru:  "",   
 en:  "Copy",
@@ -675,19 +711,19 @@ ru:  "",
 en:  "Dark Wolf Fur",
 ru:  "",   
 en:  "Search...",
-ru:  "", //NEW   
+ru:  "",   
 en:  "Keep in mind that you need to use the EnableCheats command first before most of the commands will work on a multiplayer server! This is not necessary when playing singleplayer. Also note that some of the parameters have to be filled in by yourself (e.g. Steam64ID or PlayerUE4ID)",
-ru:  "", //NEW   
+ru:  "",   
 en:  "Tip: You can click on a command to have it copied to your clipboard. (Click to dismiss)",
-ru:  "", //NEW   
+ru:  "",   
 
 //Dino harvesting / drops
 en:  "Dropped by",
-ru:  "", //NEW   
+ru:  "",   
 en:  "Top harvesters",
-ru:  "", //NEW   
+ru:  "",   
 en:  "Star ratings are out of 5 and based on tests. If you think something is incorrect or outdated, let me know!",
-ru:  "", //NEW   
+ru:  "",   
 
 //Dino abilities
 en:  "Thatch",
@@ -695,7 +731,7 @@ ru:  "",
 en:  "Wood",
 ru:  "",   
 en:  "Adobe",
-ru:  "", //NEW   
+ru:  "",   
 en:  "Stone",
 ru:  "",   
 en:  "Metal",
@@ -703,7 +739,7 @@ ru:  "",
 en:  "Bola",
 ru:  "",   
 en:  "Plant Y Trap",
-ru:  "", //NEW   
+ru:  "",   
 en:  "Chain Bola",
 ru:  "",   
 en:  "Bear Trap",
@@ -834,6 +870,10 @@ en:  "Beer",
 ru:  "",   
 en:  "Increases insulation and damage resistance, makes you consume less water. Note that it will also rapidly deplete your stamina and after 2 minutes you'll enter a 'hangover' state for 1 minute; keeping your stamina at 0 and preventing the effects of any other dishes.",
 ru:  "",   
+en:  "Cactus Broth", 
+ru:  "", //NEW   
+en:  "This Scorched Earth dish reduces water consumption and makes you less visible to wild animals (much like the bug repellant)", 
+ru:  "", //NEW   
 en:  "Calien Soup",
 ru:  "",   
 en:  "Adds +50 hyperthermal insulation and slows water consumption by 25% (good for warm areas).",
@@ -892,6 +932,8 @@ en:  "Azulberry",
 ru:  "",   
 en:  "Black Pearl",
 ru:  "",   
+en:  "Cactus Sap", 
+ru:  "", //NEW   
 en:  "Citronal",
 ru:  "",   
 en:  "Cooked Meat",
@@ -1134,9 +1176,9 @@ ru:  "",
 en:  "Help translate!",
 ru:  "",   
 en:  "App Theme",
-ru:  "", //NEW   
+ru:  "",   
 en:  "Select the theme you want to use in the app!",
-ru:  "", //NEW   
+ru:  "",   
 
 //About
 en:  "Survive ARK Companion is a fan-made app created by",
@@ -1160,9 +1202,9 @@ ru:  "",
 en:  "Feedback",
 ru:  "",   
 en:  "Ran into any problems, data being inaccurate or simply a bug? You can report it",
-ru:  "", //NEW   
+ru:  "",   
 en:  "or leave a reply on",
-ru:  "", //NEW   
+ru:  "",   
 
 //Contributors
 en:  "The people on this page have made contributions to the app. New contributions are always welcome! You can for instance help translate the app or send your own suggestions by using the buttons below!",
@@ -1203,5 +1245,20 @@ en:  "It seems no internet connection could be established. Please check your co
 ru:  "",   
 
 //No search result
-en:  "Sorry, but we were not able to find what you were looking for. Make sure what you are searching for is spelled correctly and try again!"
+en:  "Sorry, but we were not able to find what you were looking for. Make sure what you are searching for is spelled correctly and try again!",
 ru:  "",   
+
+//Days of the week 
+en:  "Sunday",
+ru:  "",   
+en:  "Monday",
+ru:  "",   
+en:  "Tuesday",
+ru:  "",   
+en:  "Wednesday",
+ru:  "",   
+en:  "Thursday",
+ru:  "",   
+en:  "Friday",
+ru:  "",   
+en:  "Saturday"ru:  ""   
