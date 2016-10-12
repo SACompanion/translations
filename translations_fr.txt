@@ -1064,7 +1064,8 @@ en:  "minutes",
 fr:  "minutes",   
 en:  "ago",
 fr:  "il y a",   
-timePosted: "Posted {0} ago by {1} on {2}", //Example: Posted 2 hours ago by Jat on Steam
+en:  "Posted {0} ago by {1} on {2}", //Example: Posted 2 hours ago by Jat on Steam
+fr:  "", //NEW
 en:  "Back to overview",
 fr:  "Revenir",   
 en:  "Go to original post",
