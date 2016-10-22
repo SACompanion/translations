@@ -5,7 +5,7 @@ fr:  "Chargement des nouvelles données",
 en:  "Pro Version (Ad free)",
 fr:  "Version PRO",   
 en:  "Dashboard", 
-fr:  "",   //NEW
+fr:  "Tableau de bord",   //NEW
 en:  "Taming Calculator",
 fr:  "Calculateur de taming",   
 en:  "Breeding Calculator",
@@ -45,7 +45,7 @@ fr:  "Ravitaillement",
 en:  "Whistles",
 fr:  "Sifflements",   
 en:  "Development",
-fr:  "Developpement",   
+fr:  "Mises à jour",   
 en:  "Development Resources",
 fr:  "Infos sur le jeu",   
 en:  "Settings",
@@ -165,7 +165,7 @@ fr:  "L'arbalète fait peu de dégâts de torpeur  instantanée, le reste de la 
 en:  "The compound bow is slightly better than the bow, but doesn't exceed the crossbow in dealing torpor. Therefore it is not the most efficient bow for taming.",
 fr:  "L'arc composite est légèrement meilleure que l'arc, mais ne dépasse pas l'arbalète dans le traitement de la torpeur. Il n'est donc pas idéal pour dompter.",   
 en:  "The boomerang can be used to knockout creatures from a distance, without using ammo. If the Boomerang hits a target, it will fly straight back to you. If you miss, it will return by flying back to your counter-clockwise.",
-fr:  "",   //NEW
+fr:  "Le boomerang peut être utilisé pour rendre inconcient des créatures à distance, sans utiliser des munitions. Si le Boomerang frappe une cible, il reviendra directement à vous. Si vous manquez, il reviendra dans le sens anti-horaire.",   //NEW
 en:  "The longneck rifle can make use of the new tranquilizer darts to knock out enemies. Currently, these are one of the best weapons to apply torpor to a creature.",
 fr:  "Le Fusil à canon long peut utiliser avec les nouvelles fléchettes tranquillisantes pour assommer les ennemis. Actuellement, ceux-ci sont l'une des meilleures armes pour appliquer de la torpeur à une créature.",   
 en:  "Throwing rocks at your opponent is better than using your fists, however your melee damage does not apply here since it is about projectiles. Make sure you input the damage percentage of your slingshot in the field.",
@@ -401,7 +401,7 @@ fr:  "Quetzalcoatlus",
 en:  "Wyvern",
 fr:  "Wyvern",   
 en:  "Tapejara", 
-fr:  "",   //NEW
+fr:  "Tapejara",   //NEW
 
 //Breeding calculator
 en:  "General Info",
@@ -871,9 +871,9 @@ fr:  "Bière",
 en:  "Increases insulation and damage resistance, makes you consume less water. Note that it will also rapidly deplete your stamina and after 2 minutes you'll enter a 'hangover' state for 1 minute; keeping your stamina at 0 and preventing the effects of any other dishes.",
 fr:  "Augmente la résistance l'isolation et la résistance aux dégâts, vous fait consommer moins d'eau. Notez qu'il diminuera rapidement votre endurance et après 2 minutes, vous allez entrer dans un état 'gueule de bois' pendant 1 minute; en gardant votre endurance à 0 et annule les effets de tous les autres plats.",   
 en:  "Cactus Broth", 
-fr:  "",   //NEW
+fr:  "Bouillon de cactus",   //NEW
 en:  "This Scorched Earth dish reduces water consumption and makes you less visible to wild animals (much like the bug repellant)", 
-fr:  "",   //NEW
+fr:  "Ce bouillon disponible sur Scorched Earth réduit la consommation d'eau et vous rend moins visible par les animaux sauvages (un peu comme le répulsif à insecte)",   //NEW
 en:  "Calien Soup",
 fr:  "Soupe piquante",   
 en:  "Adds +50 hyperthermal insulation and slows water consumption by 25% (good for warm areas).",
@@ -933,7 +933,7 @@ fr:  "Azulberry",
 en:  "Black Pearl",
 fr:  "Perle noire",   
 en:  "Cactus Sap", 
-fr:  "",   //NEW
+fr:  "Sève de cactus",   //NEW
 en:  "Citronal",
 fr:  "Citron",   
 en:  "Cooked Meat",
@@ -1097,7 +1097,7 @@ fr:  "minutes",
 en:  "ago",
 fr:  "il y a",   
 en:  "Posted {0} ago by {1} on {2}", //Example: Posted 2 hours ago by Jat on Steam
-fr:  "", //NEW
+fr:  "a été postée {0} par {1} sur {2}", //NEW
 en:  "Back to overview",
 fr:  "Revenir",   
 en:  "Go to original post",
