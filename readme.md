@@ -30,8 +30,8 @@ In case you come across a part of the app that is not yet translated, please [op
 | de | German | **98%** |
 | el | Greek | 0% |
 | en | English | **100%** |
-| es | Spanish | 0% |
-| fr | French | **80%** |
+| es | Spanish | **10%** |
+| fr | French | **100%** |
 | it | Italian | 0% |
 | ja | Japanese | 0% |
 | nb | Norwegian | 0% |

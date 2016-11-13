@@ -9,5 +9,11 @@
 ## Polish Translation
 1) [Lokstar Val Hallen](https://github.com/LokstarValHallen) - [Twitter](https://twitter.com/LokstarVHallen)
 
+## Portuguese Translation
+1) [GiovanniCDA](https://github.com/GiovanniCDA)
+
 ## Russian Translation
 1) [yandybos](https://github.com/yandybos)
+
+## Spanish Translation
+1) [jedelwey](https://github.com/jedelwey)

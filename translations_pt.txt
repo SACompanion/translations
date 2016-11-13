@@ -1,5 +1,5 @@
 en:  "Loading latest creature data..",
-pt:  "",   
+pt:  "Carregando os últimos dados..",   
 
 //Menu entries
 en:  "Pro Version (Ad free)",
