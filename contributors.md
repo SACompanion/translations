@@ -8,3 +8,6 @@
 
 ## Polish Translation
 1) [Lokstar Val Hallen](https://github.com/LokstarValHallen) - [Twitter](https://twitter.com/LokstarVHallen)
+
+## Russian Translation
+1) [yandybos](https://github.com/yandybos)

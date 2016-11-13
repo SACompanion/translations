@@ -27,7 +27,7 @@ In case you come across a part of the app that is not yet translated, please [op
 | Code | Language | Status |
 | ---- | -------- | -------- |
 | da | Danish | 0% |
-| de | German | **100%** |
+| de | German | **98%** |
 | el | Greek | 0% |
 | en | English | **100%** |
 | es | Spanish | 0% |
@@ -38,6 +38,6 @@ In case you come across a part of the app that is not yet translated, please [op
 | nl | Dutch | 0% |
 | pl | Polish | **5%** |
 | pt | Portuguese | **10%** |
-| ru | Russian | 0% |
+| ru | Russian | **100%** |
 | tr | Turkish | 0% |
 | zh | Chinese (Simplified) | 0% |
