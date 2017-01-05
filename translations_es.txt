@@ -5,11 +5,11 @@ es:  "Cargando los últimos datos de las criaturas",
 en:  "Pro Version (Ad free)",
 es:  "Versión Pro (Libre de Publicidad)",
 en:  "Dashboard", 
-es:  "", 
+es:  "Tablero", //NEW
 en:  "Taming Calculator",
 es:  "Calculadora de Tameo",
 en:  "Breeding Calculator",
-es:  "Calculadora de Cría",
+es:  "Calculadora de cría", //NEW
 en:  "Engram Calculator",
 es:  "Calculadora de Engramas",
 en:  "Creature Stats",
@@ -23,31 +23,31 @@ es:  "Perfil del Superviviente",
 en:  "ARK Maps",
 es:  "Mapas ARK",
 en:  "Admin Commands",
-es:  "Comandos de Administrador",
+es:  "Comandos Administrador",
 en:  "Harvesting",
 es:  "Recolección", //NEW
 en:  "Dino drops",
-es:  "Drops de Dinosaurios", //NEW
+es:  "Drop de Dinosaurios", //NEW
 en:  "Achievements",
 es:  "Logros",
 en:  "Diseases & Cures",
 es:  "Enfermedades y Curas",
 en:  "Dinosaur Ability Overview",
-es:  "Habilidades de Dinosaurios",
+es:  "Habilidades de dinosaurios", //NEW
 en:  "Flyer Pickups",
 es:  "Recoger Volando",
 en:  "Kibble Flowchart",
-es:  "Procesos para Kibble",
+es:  "Diagrama de Kibble", //NEW
 en:  "Recipes",
-es:  "Recetas",
+es:  "Recetas", //NEW
 en:  "Supply Drops",
-es:  "",
+es:  "Suministros aéreos", //NEW
 en:  "Whistles",
-es:  "",
+es:  "Silbidos", //NEW
 en:  "Development",
-es:  "",
+es:  "Desarrollo", //NEW
 en:  "Development Resources",
-es:  "",
+es:  "Recursos de desarrollo", //NEW
 en:  "Settings",
 es:  "Ajustes",
 en:  "About",
@@ -57,107 +57,107 @@ es:  "Contribuidores",
 
 //Menu dividers
 en:  "Calculators",
-es:  "Calculadoras",
+es:  "Calculadoras", //NEW
 en:  "Popular Overviews",
-es:  "",
+es:  "Vistas populares", //NEW
 en:  "Overviews",
-es:  "",
+es:  "Vistas", //NEW
 en:  "Misc.",
-es:  "Misc.",
+es:  "Misceláneo",//NEW
 
 //Pro version
 en:  "Like the app, but not the ads? Now there is an ad-free version of SA Companion available!",
-es:  "Te gusta la aplicacion, pero no los anuncios?. Ahora hay un Libre-Anuncios de Sa Companion disponible!",
+es:  "Como la app, pero sin anuncios. ¡Ahora la versión de SA Companion sin anuncios está disponible!", //NEW
 en:  "The pro version contains all the features that are available in the free version, but without ads at the bottom. In the (near) future an offline-modus will be added exlusively for the Pro-users!",
-es:  "La versión pro contiene todas las características de la versión gratis, pero sin anuncion en la parte inferior. En el futuro cercano agregaremos un modo Offline exclusivo para los Pro-usuarios!",
+es:  "La versión PRO contiene todas las características disponibles en la versión gratuita pero sin anuncios. Dentro de poco se añadirán módulos sin conexión solo para usuarios PRO", //NEW
 en:  "You can find the Pro version in the Google Play store, or simply click on the button below to be taken to it:",
-es:  "Podés encontrar la versión Pro in la tienda de Google Play, o simplemente clickeando en el buton de abajo: ",
+es:  "Puedes encontrar la versión PRO en Google Play Store, o simplemente haz clic en el botón inferior",
 en:  "Download Pro Version",
-es:  "Descargar Versión Pro",
+es:  "Descargar la versión PRO", //NEW
 
 //Taming calculator + tabs
 en:  "Taming",
-es:  "Domesticaciones",
+es:  "Tameo", //NEW
 en:  "Recipes",
-es:  "Recetas",
-en:  "Timers",
-es:  "Tiempos",
+es:  "Recetas", //NEW
+en:  "Timers", //NEW
+es:  "Temporizadores",
 en:  "Breeding",
-es:  "Crías",
+es:  "Cría", //NEW
 en:  "Additional",
-es:  "Adicional",
+es:  "Adicional", //NEW
 en:  "Tip: You can click on a food icon to auto-fill that particular food (click to dismiss)",
-es:  "Tip: Podés clicker en el icono de comida para Auto-rellenar esa comida en particular (Haga click para descartar) ",
+es:  "Consejo: Puedes click en el icono de una comida para auto rellenarlo", //NEW
 en:  "Food",
-es:  "Comida",
+es:  "Comida", //NEW
 en:  "Amount",
-es:  "Monto",
+es:  "Cantidad", //NEW
 en:  "Max",
-es:  "Máximo",
+es:  "Máximo", //NEW
 en:  "Time",
-es:  "Tiempo",
+es:  "Tiempo", //NEW
 en:  "Tame info",
-es:  "Info de Domesticación",
+es:  "Información de tameo", //NEW
 en:  "Narcotics needed",
-es:  "Narcóticos necesarios",
+es:  "Narcóticos necesarios", //NEW
 en:  "Narcoberries needed",
-es:  "Narcoberries Necesarios",
+es:  "Narcoberries necesarias", //NEW
 en:  "Time to refill",
-es:  "Tiempo para rellenar",
+es:  "Tiempo para rellenar", //NEW
 en:  "Time to drain torpor",
-es:  "Tiempo para drenado de torpor ",
+es:  "Tiempo en bajar el torpor", //NEW
 en:  "Total tame time",
-es:  "Tiempo total de Domesticación",
+es:  "Tiempo total de tameo", //NEW
 en:  "Local time done",
-es:  "Tiempo local para terminar",
+es:  "",
 en:  "effectiveness",
-es:  "Efectividad",
+es:  "Effectividad", //NEW
 en:  "Levels",
-es:  "Niveles",
+es:  "Niveles", //NEW
 en:  "Strategy",
-es:  "Estrategia",
+es:  "Estrategia", //NEW
 en:  "Weapons",
-es:  "Armas",
+es:  "Armas", //NEW
 en:  "Max level after training",
-es:  "Máximo nivel despues de entrenar",
+es:  "Máximo nivel después del entrenamiento", //NEW
 en:  "Important creature info",
-es:  "Info importante de Criatura",
+es:  "Información importante de la criatura", //NEW
 en:  "This creature can only be tamed non-violently. Therefore torpor does not apply and is left out.",
-es:  "Esta criatura solo puede ser domesticada sin violencia.Por lo tanto torpor no se aplica y se deja de lado. ",
+es:  "Esta criatura solo puede ser tameada en el modo no violento", //NEW
 en:  "Also note that the initial feeding interval can be larger, due to food first having to drop a certain percentage for non-violent tames.",
-es:  "También tenga en cuenta que el intervalo de alimentación inicial puede ser mayor, debido a que los alimentos primero tienen que caer un cierto porcentaje para las domesticaciones no violentos",
+es:  "También tenga en cuenta que el intervalo de alimentación inicial puede ser mayor, debido a que los alimentos primero tienen que bajar un cierto porcentaje para los tameos no violentos.", //NEW
 en:  "KO Techniques",
-es:  "KO Técnicas",
+es:  "Técnicas para el K.O.", //NEW
 en:  "Edit",
-es:  "Editar",
+es:  "Editar", //NEW
 en:  "Kill %",
-es:  "Muerte %",
+es:  "Matar %", //NEW
 en:  "Ratio",
-es:  "Proporción",
+es:  "Ratio", //NEW
 en:  "You can add or edit your custom KO weapons / creatures here",
-es:  "Podés agregar o editar tus perzonalidas KO armas / criaturas aqui",
+es:  "Puedes añadir o editar tus propias armas o criaturas para el K.O. aquí", //NEW
 en:  "Add",
-es:  "Añadir",
+es:  "Añadir", //NEW
 en:  "KO Technique Settings",
-es:  "Ajustes de KO Técnicas ",
+es:  "Configuración Técnicas K.O.", //NEW
 en:  "Current KO Techniques",
-es:  "Comunes Técinas de KO",
+es:  "Técnicas K.O. actuales", //NEW
 en:  "Delete",
-es:  "Eliminar",
+es:  "Eliminar", //NEW
 en:  "Are you sure you want to delete {0} ({1}%)?",
-es:  "Estar seguro de que querés eliminar{0} ({1}%)? ",
+es:  "¿Estás seguro que quieres eliminar {0} ({1}%)?", //NEW
 en:  "{0} ({1}) already exists",
-es:  "{0} ({1}) Ya existe",
+es:  "{0} ({1}) ya existe", //NEW
 en:  "{0} ({1}) added!",
-es:  "{0} ({1}) Añadido!",
+es:  "{0} ({1}) añadido", //NEW
 en:  "Based on melee only",
-es:  "Basado en melee solamente",
+es:  "Basado solo en el daño cuerpo a cuerpo", //NEW
 en:  "Be safe; always bring extra supplies",
-es:  "Cuidate, siempre trae extra provisiones",
+es:  "Cuidate; lleva siempre provisiones adicionales", //NEW
 en:  "Info: Hitboxes that are not shown have no additional multipliers, meaning that they require the same amounts as indicated by 'Body'. Kill % is the chance you'll kill the creature before it is knocked out. The ratio indicates the damage to torpor ratio of the weapon",
-es:  "",
+es:  "Info: Las hitbox que no se muestran no tienen multiplicadores adicionales, lo que significa que requieren las mismas cantidades indicadas por 'Body'. El porcentaje de muerte es la posibilidad de que matar a la criatura antes de que sea eliminado. La relación indica el daño a la relación de torpor del arma", //NEW
 en:  "Additional Info",
-es:  "",
+es:  "Información adicional", //NEW
 en:  "The bow does a little bit of instant torpor damage and the rest of the torpor is added over the next 4 seconds. This means that for the best torpor-to-damage ratio, you need to wait 5 seconds between shots. However, since torpor stacks, you can also fire arrows as quickly as you can. This is especially useful for creatures with high torpor regeneration or high health.",
 es:  "",
 en:  "The crossbow does a little bit of instant torpor damage and the rest of the torpor is added over the next 4 seconds. This means that for the best torpor-to-damage ratio, you need to wait 5 seconds between shots. However, since torpor stacks, you can also fire arrows as quickly as you can. This is especially useful for creatures with high torpor regeneration or high health.",
@@ -203,7 +203,7 @@ es:  "Picana Eléctrica",
 en:  "Wooden Club",
 es:  "Garrote",
 en:  "Fists",
-es:  "",
+es:  "Puñetazos",  //NEW
 en:  "Arthropluera",
 es:  "Arthropluera",
 en:  "Scorpion",
@@ -217,7 +217,7 @@ es:  "Volver a la calculadora",
 
 //Recipe tab
 en:  "Kibble Recipe",
-es:  "",
+es:  "Recetas de Kibble",  //NEW
 en:  "Favorite Kibble ({0})",
 es:  "Kibble Favorito ({0})",
 en:  "Favorite Kibble",
@@ -229,13 +229,13 @@ es:  "Preferido por", //NEW
 en:  "Crafted in",
 es:  "Fabricado en",
 en:  "Produces Kibble",
-es:  "",
+es:  "Kibble producido", //NEW
 en:  "Not applicable",
 es:  "No se aplica",
 en:  "Saddle",
 es:  "Montura",
 en:  "This creature does not appear to have a saddle",
-es:  "",
+es:  "Esta criatura parece que no tiene montura", //NEW
 en:  "Smithy",
 es:  "Herrería",
 en:  "Inventory",
@@ -253,35 +253,35 @@ es:  "Comida actual",
 en:  "Max food",
 es:  "Comida Máxima",
 en:  "Starved in",
-es:  "",
+es:  "Hambriento en ", //NEW
 en:  "Warn me when there are ",
-es:  "",
+es:  "Avisame cuando queden ", //NEW
 en:  " minutes left",
-es:  " minutos antes",
+es:  " minutos restantes", //NEW
 en:  "Start",
 es:  "Comenzar",
 en:  "Stop",
 es:  "Parar",
 en:  "Narcotics Timer",
-es:  "",
+es:  "Temporizador de narcóticos", //NEW
 en:  "Toggle:",
-es:  "",
+es:  "Cambiar", //NEW
 en:  "Current torpor",
-es:  "",
+es:  "Torpot actual", //NEW
 en:  "Give {0}",
-es:  "",
+es:  "Dar {0}", //NEW
 en:  "Give",
-es:  "",
+es:  "Dar",  //NEW
 en:  "Depleted in",
-es:  "",
+es:  "Agotado en", //NEW
 en:  "Amount to refill",
-es:  "",
+es:  "Cantidad a rellenar", //NEW
 en:  "Time to refill",
-es:  "",
+es:  "Tiempo para rellenar", //NEW
 en:  "Need some help with the timers?",
 es:  "¿Necesitas ayuda con los tiempos?",
 en:  "Check the timer explanation",
-es:  "",
+es:  "Revisa la explicacion del temporizador",  //NEW
 
 //Timer explanation //NEW
 en:  "Why starve taming?",
@@ -317,23 +317,23 @@ es:  "",
 
 //Breeding tab
 en:  "Breeding Information",
-es:  "",
+es:  "Información de cría", //NEW
 en:  "The {0} is not breedable yet, or no information is currently known.",
-es:  "", 
+es:  "El {0} nopuede criar por ahora, o no hay información",  //NEW
 en:  "Temperature Range",
-es:  "",
+es:  "Rango de temperatura",  //NEW
 en:  "Total time",
-es:  "",
+es:  "Tiempo total", //NEW
 en:  "{0} to full maturation",
-es:  "",
+es:  "{0} para maduración completa", //NEW
 en:  "Incubation",
-es:  "",
+es:  "Incubación", //NEW
 en:  "Pregnancy",
-es:  "",
+es:  "Embarazo", //NEW
 en:  "{0} time",
-es:  "",
+es:  "{0} tiempo", //NEW
 en:  "Maturation time",
-es:  "",
+es:  "Tiempo de maduración", //NEW
 en:  "Baby",
 es:  "Bebe",
 en:  "Juvenile",
@@ -343,17 +343,17 @@ es:  "Adolescente",
 en:  "Total",
 es:  "Total",
 en:  "Mating interval",
-es:  "",
+es:  "Intervalo de apareamiento", //NEW
 
 //Additional tab
 en:  "Additional Creature Information",
 es:  "Información Adiccional de la Criatura",
 en:  "Nickname",
-es:  "",
+es:  "Nick", //NEW
 en:  "Type",
 es:  "Tipo",
 en:  "Rideable",
-es:  "",
+es:  "Montable", //NEW
 en:  "Taming Method",
 es:  "Metodo de Tameo",
 en:  "Favorite Food",
@@ -381,37 +381,37 @@ es:  "Puede Dañar",
 en:  "Affected By",
 es:  "Afectado Por",
 en:  "Fits Through",
-es:  "",
+es:  "Se adapta a", //NEW
 en:  "Harvests",
-es:  "", //NEW
+es:  "Cosecha", //NEW
 en:  "Drops",
 es:  "Drops", //NEW
 en:  "Star ratings are out of 5",
-es:  "", //NEW
+es:  "Las estrellas de puntuación son sobre 5", //NEW
 en:  "For even more creature info check out the",
 es:  "",
 en:  "{0} Wiki Page!",
-es:  "",
+es:  "Página {0} de la wiki", //NEW
 en:  "Argentavis",
-es:  "",
+es:  "Argentavis", //NEW
 en:  "Pteranodon",
-es:  "",
+es:  "Pteranodon", //NEW
 en:  "Quetzalcoatlus",
-es:  "",
+es:  "Quetzalcoatlus", //NEW
 en:  "Wyvern",
-es:  "", //NEW
+es:  "Wyvern", //NEW
 en:	 "Tapejara",
-es:  "", //NEW
+es:  "Tapejara", //NEW
 
 //Breeding calculator
 en:  "General Info",
-es:  "", 
+es:  "Información en general",  //NEW
 en:  "Note that the calculations might not be perfect as the exact amounts of food depend on spoilage and stacksizes. Therefore it is recommended to use it as a guide instead of fully relying on the indicated times! (click to dismiss)",
 es:  "",
 en:  "Remainder",
-es:  "",
+es:  "Recordatorio", //NEW
 en:  "Max",
-es:  "",
+es:  "Máximo", //NEW
 en:  "The remainder is the amount of food you still need, based on your current progress. The amounts do not account for spoilage!",
 es:  "",
 en:  "Progress",
@@ -425,13 +425,13 @@ es:  "Peso Final",
 en:  "Maturation Progress ({0}%)",
 es:  "Progreso de maduración ({0}%)",
 en:  "Baby time left",
-es:  "",
+es:  "Tiempo restante de bebé", //NEW
 en:  "Maturation time left",
-es:  "",
+es:  "Tiempo restante para la maduración", //NEW
 en:  "Baby Phase ({0}%)",
-es:  "",
+es:  "Fase de bebé ({0}%)", //NEW
 en:  "Food until juvenile",
-es:  "",
+es:  "Comida para joven", //NEW
 en:  "Desired buffer time (minutes)",
 es:  "",
 en:  "Until desired",
@@ -459,57 +459,57 @@ es:  "",
 
 //Stats calculator
 en:  "Calculator",
-es:  "",
+es:  "Calculadora", //NEW
 en:  "Stats",
-es:  "",
+es:  "Estadísticas", //NEW
 en:  "Comparison",
-es:  "",
+es:  "Comparación", //NEW
 en:  "Stat",
-es:  "",
+es:  "Estadística", //NEW
 en:  "Input",
-es:  "",
+es:  "Entrada", //NEW
 en:  "Max / Base",
-es:  "",
+es:  "Máximo / Base", //NEW
 en:  "Points",
-es:  "",
+es:  "puntos", //NEW
 en:  "pts",
-es:  "",
+es:  "puntos", //NEW
 en:  "Color indication:",
-es:  "",
+es:  "Indicador de color", //NEW
 en:  "Below average",
-es:  "",
+es:  "Promedio inferior", //NEW
 en:  "Average",
-es:  "",
+es:  "Promedio", //NEW
 en:  "Above average",
-es:  "",
+es:  "Promedio superior", //NEW
 en:  "Note: Speed is never increased pre-tame, meaning that all 'missing' points went into speed. The calculator therefore automatically puts all unused points into speed.",
 es:  "",
 en:  "Base (lvl 1)",
 es:  "",
 en:  "Wild",
-es:  "",
+es:  "Salvaje", //NEW
 en:  "Tamed",
-es:  "",
+es:  "Tameado", //NEW
 en:  "Absolute speed values",
 es:  "",
 en:  "Swimming",
-es:  "",
+es:  "Nadando", //NEW
 en:  "Walking",
-es:  "",
+es:  "Andando", //NEW
 en:  "Flying",
-es:  "",
+es:  "Volando", //NEW
 en:  "Sprint Wild",
-es:  "",
+es:  "Corriendo salvaje", //NEW
 en:  "Sprint Tamed",
-es:  "",
+es:  "Corriendo tameado", //NEW
 en:  "Base Experience",
-es:  "",
+es:  "Experiencia base", //NEW
 en:  "Exp from kill (100%)",
-es:  "",
+es:  "Experiencia por matar (100%)", //NEW
 en:  "Exp as rider (50%)",
-es:  "",
+es:  "Experiencia como conductor (50%)", //NEW
 en:  "Exp as mount (25%)",
-es:  "",
+es:  "Experiencia como pasajero (25%)", //NEW
 en:  "Tip: You can change the amount of creatures by going to the settings page (click to dismiss)",
 es:  "",
 en:  "Health",
@@ -525,7 +525,7 @@ es:  "Peso",
 en:  "Damage (Absolute)",
 es:  "Daño (Absoluto)",
 en:  "Torpor",
-es:  "",
+es:  "Inconsciencia", //NEW
 en:  "Experience",
 es:  "Experiencia",
 
@@ -533,7 +533,7 @@ es:  "Experiencia",
 en:  "Structure Type",
 es:  "Tipo de Estructura",
 en:  "RPG Damage %",
-es:  "",
+es:  "Porcentaje de daño de RPG",  //NEW
 en:  "C4",
 es:  "C4",
 en:  "Grenade",
@@ -543,21 +543,21 @@ es:  "RPG",
 
 //Resource Calculator
 en:  "Search for an item",
-es:  "",
+es:  "Buscar un objeto", //NEW
 en:  "Selected Items",
-es:  "",
+es:  "Objetos seleccionados", //NEW
 en:  "No items selected",
-es:  "",
+es:  "No hay objetos seleccionados", //NEW
 en:  "Resources Needed",
-es:  "",
+es:  "Recursos necesarios", //NEW
 en:  "Breakdown",
-es:  "",
+es:  "Ruptura", //NEW
 en:  "No resources needed or no items selected",
-es:  "",
+es:  "No hay recursos necesarios o no hay objetos seleccionados", //NEW
 en:  "Reset",
-es:  "",
+es:  "Resetear", //NEW
 en:  "Are you sure you want to remove all selected items?",
-es:  "",
+es:  "¿Estás seguro que quieres eliminar todos los objetos seleccionados?",
 
 //Survivor Profile
 en:  "In the list above, you'll find all the available dossiers in the same order as they are displayed in the game. For quick reference, the colored names indicate whether you need to tame (blue) or kill (purple) the corresponding creature. A special case is the DodoRex, as it can only be unlocked during events.",
@@ -567,67 +567,67 @@ es:  "",
 
 //Maps
 en:  "ARK Maps Overview",
-es:  "",
+es:  "Vista de los mapas de ARK",
 en:  "The Island Map",
-es:  "",
+es:  "Mapa La isla", //NEW
 en:  "Scorched Earth Map",
-es:  "", //NEW
+es:  "Mapa Scorched Earth", //NEW
 en:  "The Center Map",
-es:  "",
+es:  "Mapa The Center", //NEW
 en:  "Valhalla Map",
-es:  "",
+es:  "Mapa Valhalla", //NEW
 
 //Admin commands (item, dinos and colors)
 en:  "Admin Commands Overview",
-es:  "",
+es:  "Comandos de administrador", //NEW
 en:  "Item Spawn Commands",
-es:  "",
+es:  "Comandos para generar objetos", //NEW
 en:  "Dino Spawn Commands",
-es:  "",
+es:  "Comandos para generar dinosaurios", //NEW
 en:  "General Admin Commands",
-es:  "", //NEW
+es:  "Comandos generales de administrador", //NEW
 en:  "Command copied to clipboard!",
-es:  "",
+es:  "Comando copiado al portapapeles", //NEW
 en:  "Copy",
-es:  "",
+es:  "Copiar", //NEW
 en:  "Done",
-es:  "",
+es:  "Hecho", //NEW
 en:  "Color Commands",
-es:  "",
+es:  "Comandos de color", //NEW
 en:  "Quantity",
-es:  "",
+es:  "Cantidad", //NEW
 en:  "Quality (0-100)",
-es:  "",
+es:  "Calidad (0-100)", //NEW
 en:  "Blueprint",
-es:  "",
+es:  "Receta", //NEW
 en:  "Always use blueprint path (even if ID is available)",
-es:  "",
+es:  "Usa siempre que esté disponible la ruta de la Receta",
 en:  "Tip: You can click on an item and it will copy the corresponding command to your clipboard. Commands can be adjusted by editing the fields above (click to dismiss)",
 es:  "",
 en:  "Random Lvl",
-es:  "",
+es:  "Nivel aleatorio", //NEW
 en:  "or",
-es:  "",
+es:  "o", //NEW
 en:  "Level",
-es:  "",
+es:  "Nivel", //NEW
 en:  "Distance",
-es:  "",
+es:  "Distancia", //NEW
 en:  "Tip: You can click on a creature and it will copy the corresponding command to your clipboard. Commands can be adjusted by editing the fields above (click to dismiss)",
 es:  "",
 en:  "Creature",
-es:  "",
+es:  "Criatura", //NEW
 en:  "Color",
-es:  "",
+es:  "Color", //NEW
 en:  "Commands",
-es:  "",
+es:  "Comandos", //NEW
 en:  "Colors",
-es:  "",
+es:  "Colores", //NEW
 en:  "Tip: You can click on a creature's region and it will copy the corresponding command to your clipboard. Commands can be adjusted by editing the fields above (click to dismiss)",
 es:  "",
 en:  "Region {0}",
-es:  "",
+es:  "Región {0}", //NEW
 en:  "This region is not available for this creature",
-es:  "",
+es:  "Esa región no está disponible para esa criatura", //NEW
 en:  "Red",
 es:  "Rojo",
 en:  "Blue",
@@ -641,27 +641,27 @@ es:  "Cian",
 en:  "Magenta",
 es:  "Magenta",
 en:  "Light Green",
-es:  "",
+es:  "Verde claro", //NEW
 en:  "Light Grey",
-es:  "",
+es:  "Gris claro", //NEW
 en:  "Light Brown",
-es:  "",
+es:  "Marrón claro", //NEW
 en:  "Light Orange",
-es:  "",
+es:  "Naranja claro", //NEW
 en:  "Light Yellow",
-es:  "",
+es:  "Amarillo claro", //NEW
 en:  "Light Red",
-es:  "",
+es:  "Rojo claro", //NEW
 en:  "Dark Grey",
-es:  "",
+es:  "Gris oscuro", //NEW
 en:  "Black",
 es:  "Negro",
 en:  "Brown",
 es:  "Marrón",
 en:  "Dark Green",
-es:  "",
+es:  "Verde oscuro", //NEW
 en:  "Dark Red",
-es:  "",
+es:  "Rojo oscuro", //NEW
 en:  "White",
 es:  "Blanco",
 en:  "Dino Light Red",
@@ -719,9 +719,9 @@ es:  "", //NEW
 
 //Dino harvesting / drops
 en:  "Dropped by",
-es:  "", //NEW
+es:  "Dropeado por", //NEW
 en:  "Top harvesters",
-es:  "", //NEW
+es:  "Top cosechadores", //NEW
 en:  "Star ratings are out of 5 and based on tests. If you think something is incorrect or outdated, let me know!",
 es:  "", //NEW
 
@@ -741,13 +741,13 @@ es:  "Boleadora",
 en:  "Plant Y Trap",
 es:  "Trampa de Planta Y", //NEW
 en:  "Chain Bola",
-es:  "",
+es:  "Bola con cadena", //NEW
 en:  "Bear Trap",
-es:  "",
+es:  "Trampa para osos", //NEW
 en:  "Large Bear Trap",
-es:  "",
+es:  "Trampa para osos grande", //NEW
 en:  "Doorframe",
-es:  "",
+es:  "Marco de puerta", //NEW
 en:  "Dinosaur Gate",
 es:  "Puerta de Dinosaurio",
 en:  "Behemoth Gate",
@@ -927,37 +927,37 @@ es:  "",
 en:  "Recipe",
 es:  "Receta",
 en:  "Amarberry",
-es:  "",
+es:  "Amarberry", //NEW
 en:  "Azulberry",
-es:  "",
+es:  "Azulberry", //NEW
 en:  "Black Pearl",
 es:  "Perla Negra",
 en:  "Cactus Sap", 
-es:  "", 
+es:  "Trozo de cactus",  //NEW
 en:  "Citronal",
-es:  "",
+es:  "Limón", //NEW
 en:  "Cooked Meat",
-es:  "",
+es:  "Carne cocinada", //NEW
 en:  "Cooked Prime Meat",
-es:  "",
+es:  "Carne prima cocinada", //NEW
 en:  "Fiber",
 es:  "Fibra",
 en:  "Longrass",
-es:  "",
+es:  "Mazorca", //NEW
 en:  "Mejoberry",
-es:  "",
+es:  "Mejoberry", //NEW
 en:  "Narcotic",
-es:  "",
+es:  "Narcotico", //NEW
 en:  "Oil",
-es:  "",
+es:  "Petróleo", //NEW
 en:  "Other berries",
-es:  "",
+es:  "Otras bayas", //NEW
 en:  "Rare Flower",
-es:  "",
+es:  "Flor rar", //NEW
 en:  "Rare Mushroom",
-es:  "",
+es:  "Seta rara", //NEW
 en:  "Raw Prime Meat",
-es:  "",
+es:  "Carne prima cruda", //NEW
 en:  "Rockarrot",
 es:  "",
 en:  "Savoroot",
@@ -965,13 +965,13 @@ es:  "",
 en:  "Sap",
 es:  "",
 en:  "Sparkpowder",
-es:  "",
+es:  "Fósforo", //NEW
 en:  "Stimulant",
-es:  "",
+es:  "Estimulante", //NEW
 en:  "Thatch",
-es:  "",
+es:  "Paja", //NEW
 en:  "Tintoberry",
-es:  "",
+es:  "Tintoberry", //NEW
 en:  "Water",
 es:  "Agua",
 en:  "Woolly Rhino Horn",
@@ -979,21 +979,21 @@ es:  "",
 
 //Additional recipe info
 en:  "Cooking Pot",
-es:  "",
+es:  "Olla de cocina", //NEW
 en:  "Beer Barrel",
-es:  "",
+es:  "Barril de cerveza", //NEW
 en:  "Preserving Bin",
-es:  "",
+es:  "Caja de conservas", //NEW
 en:  "Spoils",
-es:  "",
+es:  "se pudre", //NEW
 en:  "Duration",
-es:  "",
+es:  "Duracion", //NEW
 en:  "s",
-es:  "",
+es:  "s", //NEW
 en:  "m",
-es:  "",
+es:  "m", //NEW
 en:  "h",
-es:  "",
+es:  "h", //NEW
 
 //Supply drops
 en:  "Supply drops can be found all over the island and can contain a lot of useful items, especially for starters. Supply drops have different kind of colors, each requiring a different level to be able to open it. In this overview you'll find the colors and their respecitive levels. Each supply drop also contains a short section on its contents.",
@@ -1035,27 +1035,27 @@ es:  "",
 en:  "Tamed creatures can carry out certain orders by whistling to them. On Xbox, you can access the whistle menu by holding down the B button. On PC, you can either bring up the menu by holding down 'T', or use one of the keys below for quick access. Unfortunately these quick access buttons are currently not available on Xbox, so you'll have to use the whistle menu there.",
 es:  "",
 en:  "Action",
-es:  "",
+es:  "Acción", //NEW
 en:  "Key",
-es:  "",
+es:  "Tecla", //NEW
 en:  "Description",
-es:  "",
+es:  "Descripción", //NEW
 en:  "Follow All",
-es:  "",
+es:  "Seguir todos", //NEW
 en:  "Follow One",
-es:  "",
+es:  "Seguir uno", //NEW
 en:  "Stop All",
-es:  "",
+es:  "Parar a todos", //NEW
 en:  "Stop One",
-es:  "",
+es:  "Parar a uno", //NEW
 en:  "Neutral",
-es:  "",
+es:  "Neutral", //NEW
 en:  "Passive",
-es:  "",
+es:  "Pasivo", //NEW
 en:  "Attack My Target",
-es:  "",
+es:  "Ataca a mi objetivo", //NEW
 en:  "Attack This Target",
-es:  "",
+es:  "Ataca a ese objetivo", //NEW
 en:  "All tamed creatures within a certain radius will follow you.",
 es:  "",
 en:  "The tamed creature you are looking at will follow you.",
@@ -1073,7 +1073,7 @@ es:  "",
 en:  "All tamed creatures within a certain radius will attack the target you are looking at.",
 es:  "",
 en:  "Range",
-es:  "",
+es:  "Rango", //NEW
 en:  "Note that you can use the spyglass in combination with the quick access buttons to increase the range for which the commands work. This is particularly useful when trying to attack a distant enemy or calling a tamed creature towards you that is far away.",
 es:  "",
 en:  "Also keep in mind that if you whistle, the targeted creature(s) will terminate their current attacks (if they were attacking). They will defend themselves again if attacked, except if they are set to passive.",
@@ -1085,15 +1085,15 @@ es:  "",
 en:  "Developer Tracker",
 es:  "",
 en:  "Months",
-es:  "",
+es:  "Meses", //NEW
 en:  "Weeks",
-es:  "",
+es:  "Semanas", //NEW
 en:  "days",
-es:  "",
+es:  "Días", //NEW
 en:  "hours",
-es:  "",
+es:  "Horas", //NEW
 en:  "minutes",
-es:  "",
+es:  "Minutos", //NEW
 en:  "ago",
 es:  "",
 timePosted: "Posted {0} ago by {1} on {2}", //Example: Posted 2 hours ago by Jat on Steam
@@ -1150,7 +1150,7 @@ es:  "",
 en:  "If you want to have the 'give' functionality automatically adjust to the amount of narcotics that are needed to fully refill the torpor, you can check the box below. This makes it possible to set an alarm, come back to the app and instantly tap 'give' with the right amount of narcotics / berries ready!",
 es:  "",
 en:  "Autofill",
-es:  "",
+es:  "Autorellenar", //NEW
 en:  "Select an amount",
 es:  "",
 en:  "Comparison Amount",
@@ -1166,9 +1166,9 @@ es:  "",
 en:  "Although the data is automatcally updated whenever something has changed, it can happen that changes did not poperly mitigate. If that is the case, you can use the button below to manually retrieve the latest data. You will be send to the taming calculator after the data has been updated.",
 es:  "",
 en:  "Get latest data",
-es:  "",
+es:  "Obtener los úlitmos datos",
 en:  "App Language",
-es:  "Lenguaje de la App",
+es:  "Idioma de la App",
 en:  "The app will try to use your device's language by default. In case you want to switch to another one manually, you can do so here!",
 es:  "",
 en:  "Is your language not listed or are certain words missing?",
@@ -1176,7 +1176,7 @@ es:  "",
 en:  "Help translate!",
 es:  "",
 en:  "App Theme",
-es:  "", //NEW
+es:  "Tema de la aplicación", //NEW
 en:  "Select the theme you want to use in the app!",
 es:  "", //NEW
 
@@ -1198,7 +1198,7 @@ es:  "",
 en:  "If you enjoy using the app, or if it has helped you, please consider rating it. Ratings help other people find the app and show that the work is appreciated.",
 es:  "",
 en:  "Rate App",
-es:  "",
+es:  "Puntuar la aplicación", //NEW
 en:  "Feedback",
 es:  "",
 en:  "Ran into any problems, data being inaccurate or simply a bug? You can report it",
@@ -1210,9 +1210,9 @@ es:  "", //NEW
 en:  "The people on this page have made contributions to the app. New contributions are always welcome! You can for instance help translate the app or send your own suggestions by using the buttons below!",
 es:  "",
 en:  "Help translate!",
-es:  "",
+es:  "Ayuda a traducir", //NEW
 en:  "Send a suggestion!",
-es:  "",
+es:  "Envía una sugerencia", //NEW
 
 //Rate app modal
 en:  "Hi there! It seems you've been using the app for quite a while now.",
@@ -1220,15 +1220,15 @@ es:  "",
 en:  "If the app has helped you, I would really appreciate it if you could leave a rating or review if you haven't done so yet! That way I know the app is appreciated and it helps keeping the updates coming.",
 es:  "",
 en:  "Sure, it's great!",
-es:  "",
+es:  "¡Seguro!", //NEW
 en:  "Not now",
-es:  "",
+es:  "Ahora no", //NEW
 en:  "Don't ask again",
-es:  "",
+es:  "No volver a preguntar", //NEW
 
 //Leave app
 en:  "Are you sure you want to leave the app?",
-es:  "",
+es:  "¿Seguro que quieres salir de la aplicación?",  //NEW
 en:  "Yes",
 es:  "Si",
 en:  "No",
@@ -1250,16 +1250,16 @@ es:  "",
 
 //Days of the week 
 en:  "Sunday",
-es:  "",
+es:  "Domingo", //NEW
 en:  "Monday",
-es:  "",
+es:  "Lunes", //NEW
 en:  "Tuesday",
-es:  "",
+es:  "Martes", //NEW
 en:  "Wednesday",
-es:  "",
+es:  "Miércoles", //NEW
 en:  "Thursday",
-es:  "",
+es:  "Jueves", //NEW
 en:  "Friday",
-es:  "",
+es:  "Viernes", //NEW
 en:  "Saturday"
-es:  ""
+es:  "Sábado" //NEW

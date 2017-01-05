@@ -175,8 +175,8 @@ cz:  "Elektrická tyč je nejnovější věc v ARKu. Dává masivní omračovac�
 en:  "The club can be used to knock out your opponent and is based on both your melee damage and the damage percentage of the club itself. You can input your character's melee damage on the settings page of the app.",
 cz:  "Palici lze použít k omráčení vašeho protivníka a je založena na zašem poškození i na procentu poškození palice. Můžete zadat své poškození v nastavení své postavy v aplikaci.",   
 en:  "Your fists (and the wooden club) are the only 'weapons' that will be influenced by your own melee damage, since it is not a projectile. Make sure you set your melee damage on the settings page.",
-cz:  "Vaše pěsti (a palice) jsou jediné zbraně, které jsou ovli
-timespan of 10 seconds. In between these 10 seconds, you are not able to apply torpor to the target again. If you decide to attack a target while these 10 seconds are not over yet, you will only inflict normal damage and no torpor damage.",
+cz:  "",
+en:  "The scorpion applies torpor to its target in a timespan of 10 seconds. In between these 10 seconds, you are not able to apply torpor to the target again. If you decide to attack a target while these 10 seconds are not over yet, you will only inflict normal damage and no torpor damage.",
 cz:  "",   
 en:  "The Arthropluera's main attack deals torpor damage and can therefore be used for taming. However, the torpor is applied to the target in a timespan of 10 seconds and the torpor attacks do not stack in this case. The Arthropluera is slightly better than the scorpion for knocking creatures out.",
 cz:  "",   

@@ -1,5 +1,8 @@
 # Contributors
 
+## Czech Translation
+1) [MasterVotr](https://github.com/MasterVotr)
+
 ## French Translation
 1) [ARK France](https://github.com/arkfrance) - [ARKFranceGaming.com](http://arkfrancegaming.com)
 
@@ -17,3 +20,4 @@
 
 ## Spanish Translation
 1) [jedelwey](https://github.com/jedelwey)
+2) [LuisZ1](https://github.com/LuisZ1)
