@@ -9,6 +9,9 @@
 ## German Translation
 1) [Trappel22](https://github.com/Trappel22)
 
+## Italian Translation
+1) [Lydran](https://github.com/Lydran)
+
 ## Polish Translation
 1) [Lokstar Val Hallen](https://github.com/LokstarValHallen) - [Twitter](https://twitter.com/LokstarVHallen)
 
