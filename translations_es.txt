@@ -161,29 +161,29 @@ es:  "Información adicional", //NEW
 en:  "The bow does a little bit of instant torpor damage and the rest of the torpor is added over the next 4 seconds. This means that for the best torpor-to-damage ratio, you need to wait 5 seconds between shots. However, since torpor stacks, you can also fire arrows as quickly as you can. This is especially useful for creatures with high torpor regeneration or high health.",
 es:  "El arco produce un poco de inconsciencia instantánea, pero el resto de la inconsciencia se añade en los siguientes 4 segundos. Esto significa que para ajustar el mejor ratio de daño/inconsciencia, es necesario esperar 5 segundos entre disparos. Sin embargo, hasta que se llene la inconsciencia, puedes disparar flechas tan rápido como puedas. Esto es especialmente útil para las criaturas con un alto nivel de regeneración de inconsciencia o con mucha vida.", //NEW
 en:  "The crossbow does a little bit of instant torpor damage and the rest of the torpor is added over the next 4 seconds. This means that for the best torpor-to-damage ratio, you need to wait 5 seconds between shots. However, since torpor stacks, you can also fire arrows as quickly as you can. This is especially useful for creatures with high torpor regeneration or high health.",
-es:  "La ballesta produce un poco de inconsciencia instantánea, pero el resto de la inconsciencia se añade en los siguientes 4 segundos. Esto significa que para ajustar el mejor ratio de daño/inconsciencia, es necesario esperar 5 segundos entre disparos. Sin embargo, hasta que se llene la inconsciencia, puedes disparar flechas tan rápido como puedas. Esto es especialmente útil para las criaturas con un alto nivel de regeneración de inconsciencia o con mucha vida.", //NEW
+es:  "La ballesta produce un poco de inconsciencia instantánea, pero el resto de la inconsciencia se añade en los siguientes 4 segundos. Esto significa que para ajustar el mejor ratio de daño/inconsciencia, es necesario esperar 5 segundos entre disparos. Sin embargo, para que la inconsciencia se acumule, puedes disparar flechas tan rápido como puedas. Esto es especialmente útil para las criaturas con un alto nivel de regeneración de inconsciencia o con mucha vida.", //NEW
 en:  "The compound bow is slightly better than the bow, but doesn't exceed the crossbow in dealing torpor. Therefore it is not the most efficient bow for taming.",
 es:  "El arco compuesto es ligeramente mejor que el arco, pero no supera a la ballesta en producir inconsciencia. Por lo tanto, no es el mejor arco para domar.", //NEW
 en:  "The boomerang can be used to knockout creatures from a distance, without using ammo. If the Boomerang hits a target, it will fly straight back to you. If you miss, it will return by flying back to your counter-clockwise.",
-es:  "El boomerang puede usarse para dejar KO a las critaruras desde la distancia, sin usar munición. Si el boomerang impacta en la criatura, volverá volando directo hacía ti. Si falla, regresará volando hacia ti en sentido antihorario", //NEW
+es:  "El bumerán puede usarse para dejar KO a las critaruras desde la distancia, sin usar munición. Si el bumerán impacta en la criatura, volverá volando directo hacía ti. Si falla, regresará volando hacia ti en sentido antihorario", //NEW
 en:  "The longneck rifle can make use of the new tranquilizer darts to knock out enemies. Currently, these are one of the best weapons to apply torpor to a creature.",
-es:  "El rifle largo puedes usar los nuevos dardos tranquilizantes para dejar KO a los enemigos. Actualmente, el rifle es una de las mejores armas para aumentar la insconciencai a las criaturas.", //NEW
+es:  "El rifle largo puede usar los nuevos dardos tranquilizantes para dejar KO a los enemigos. Actualmente, el rifle es una de las mejores armas para aumentar la insconciencai a las criaturas.", //NEW
 en:  "Throwing rocks at your opponent is better than using your fists, however your melee damage does not apply here since it is about projectiles. Make sure you input the damage percentage of your slingshot in the field.",
 es:  "Lanzar piedaras a tu oponente es mejor que usar tus puños, sin embargo tu daño cuerpo a cuerpo no se tiene en cuenta ya que son proyectiles. Asegúrate de que has introducido el porcentaje de daño de tu tirachinas en el campo.", //NEW
 en:  "The electric prod is the latest addition to the ARK. It does a massive amount of torpor damage and no damage to health. This makes it a perfect device for knocking out creatures for taming. Note that the weapon is single-use, so you might need multiple prods to knock out larger creatures.",
 es:  "La porra eléctrica es la última incorporación en ARK. La porra produce un incremento masivo de inconsciencia sin producir daños. Esto lo convierte en el dispositivo perfecto para dejar KO a las criaturas para domarlas. Tenga en cuenta que este arma es de un solo uso, por lo que necesitarás disponer de varias para dejar KO a las criaturas más grandes", //NEW
 en:  "The club can be used to knock out your opponent and is based on both your melee damage and the damage percentage of the club itself. You can input your character's melee damage on the settings page of the app.",
-es:  "",
-en:  "Your fists (and the wooden club) are the only 'weapons' that will be influenced by your own melee damage, since it is not a projectile. Make sure you set your melee damage on the settings page.",
-es:  "",
+es:  "Se puede usar garrote para dejar KO al oponente y se aplica tanto tu daño cuerpo como el porcentaje de daño del propio garrote. Puedes introducir el porcentaje de daño cuerpo a cuerpo de tu personaje en la página de configuración de la aplicación", //NEW
+en:  "Your fists (and the wooden club) are the only 'weapons' that will be influenced by your own melee damage, since it is not a projectile. Make sure you set your melee damage on the settings page.", //NEW
+es:  "Tus puños (y el garrote de madera) son las únicas "armas" sobre las que aplica tu porcentaje de daño cuerpo a cuerpo, ya que no son proyectiles. Asegurate de haber introducido tu daño cuerpo a cuerpo en la página de configuración.", //NEW
 en:  "The scorpion applies torpor to its target in a timespan of 10 seconds. In between these 10 seconds, you are not able to apply torpor to the target again. If you decide to attack a target while these 10 seconds are not over yet, you will only inflict normal damage and no torpor damage.",
-es:  "",
+es:  "El escorpión porduce inconsciencia a su objetivo en un intervalo de 10 segundos. Durante esos 10 segundos, no se puede incrementar el nivel de insconsciencia por otros medios. Si decides atacar mientras no hayan transcurrido esos 10 segundos, sólo producirás daño al objetivo sin aumentar la inconsciencia", //NEW
 en:  "The Arthropluera's main attack deals torpor damage and can therefore be used for taming. However, the torpor is applied to the target in a timespan of 10 seconds and the torpor attacks do not stack in this case. The Arthropluera is slightly better than the scorpion for knocking creatures out.",
-es:  "",
+es:  "El ataque principal de la Authropleura causa inconsciencia y puede ser usado para domar. Sin embargo, la inconsciencia se produce en un intervalo de 10 segundos y los ataques no se acumulan entre ellos. La Arthropleura es ligeremante mejor que el escorpión para dejar KO a las criaturas.", //NEW
 en:  "Much like the scorpion, the Beelzebufo applies torpor to its target in a timespan of 10 seconds. In between these 10 seconds, you are not able to apply torpor to the target again. If you decide to attack a target while these 10 seconds are not over yet, you will only inflict normal damage and no torpor damage. Furthermore, the Beelzebufo has two types of attacks which do different amounts of torpor damage. The left mousebutton attack (shoot out tonque) will result in less torpor damage, and is denoted by the maximum amount of licks you will need. Alternatively, the right mousebutton attack (tonque swing) is denoted by the minimum amount of licks.",
-es:  "",
+es:  "Como el escorpión, el Beelzebufo aumenta la inconsciencia de su objetivo en un intervalo de 10 segudos. Durante esos 10 segundos, no se puede incrementar el nivel de insconsciencia por otros medios. Si decides atacar mientras no hayan transcurrido esos 10 segundos, sólo producirás daño al objetivo sin aumentar la inconsciencia. Además, el Beelzebufo tiene dos tupos de ataque y cada uno provoca una cantidad diferente de inconsciencia. El ataque con el botón derecho del ratón (lengüetazo) produce menos insconsciencia, se puede comprobar por la cantidad de ataques que se necesitan. Con el botón derecho del ratón (balanceo de lengua) verás que se necesitan menos ataques", //NEW
 en:  "The pachy has two kinds of attacks, charged and non-charged, that both do instant torpor damage to the target. The charged attack, indicated by the minimum amount of blows, does much more torpor damage than the non-charged attack, however the attack is hard to steer in the right direction.",
-es:  "",
+es:  "El pachy tiene dos tipos de ataque, el cargado y el nornal que producen aumento de inconsciencia al objetivo. El ataque cargado, más indicadado por reducir la cantidad de golpes, produce mucha más inconsciencia que el ataque normal, sin embargo al atacar es más dificil mantenerse la dirección correcta", //NEW
 
 //KO Techniques
 en:  "Bow",
@@ -199,7 +199,7 @@ es:  "Rifle y Dardo",
 en:  "Slingshot",
 es:  "Tirachinas",
 en:  "Electric Prod",
-es:  "Picana Eléctrica",
+es:  "Porra Eléctrica",
 en:  "Wooden Club",
 es:  "Garrote",
 en:  "Fists",
@@ -217,11 +217,11 @@ es:  "Volver a la calculadora",
 
 //Recipe tab
 en:  "Kibble Recipe",
-es:  "Recetas de Kibble",  //NEW
+es:  "Recetas de pienso",  //CORRECTED
 en:  "Favorite Kibble ({0})",
-es:  "Kibble Favorito ({0})",
+es:  "Pienso favorito ({0})", //CORRECTED
 en:  "Favorite Kibble",
-es:  "Kibble Favorito",
+es:  "Pienso Favorito", //CORRECTED
 en:  "Preferred by {0}",
 es:  "Preferido por {0}",
 en:  "Preferred by",
@@ -229,7 +229,7 @@ es:  "Preferido por", //NEW
 en:  "Crafted in",
 es:  "Fabricado en",
 en:  "Produces Kibble",
-es:  "Kibble producido", //NEW
+es:  "Pienso producido", //CORRECTED
 en:  "Not applicable",
 es:  "No se aplica",
 en:  "Saddle",
@@ -243,11 +243,11 @@ es:  "Inventario",
 
 //Timer tab
 en:  "The timers do not apply to non-violent tames",
-es:  "",
+es:  "Los contadores no aplican en la doma no violenta", //NEW
 en:  "Starve Timer",
-es:  "",
+es:  "Contador para estar hambriento", //NEW
 en:  "Target food",
-es:  "",
+es:  "Comida objetivo",
 en:  "Current food",
 es:  "Comida actual",
 en:  "Max food",
@@ -263,11 +263,11 @@ es:  "Comenzar",
 en:  "Stop",
 es:  "Parar",
 en:  "Narcotics Timer",
-es:  "Temporizador de narcóticos", //NEW
+es:  "Contador de narcóticos", //NEW
 en:  "Toggle:",
 es:  "Cambiar", //NEW
 en:  "Current torpor",
-es:  "Torpot actual", //NEW
+es:  "Inconsciencia actual", //CORRECTED
 en:  "Give {0}",
 es:  "Dar {0}", //NEW
 en:  "Give",
@@ -279,47 +279,47 @@ es:  "Cantidad a rellenar", //NEW
 en:  "Time to refill",
 es:  "Tiempo para rellenar", //NEW
 en:  "Need some help with the timers?",
-es:  "¿Necesitas ayuda con los tiempos?",
+es:  "¿Necesitas ayuda con los contadores?", //NEW
 en:  "Check the timer explanation",
-es:  "Revisa la explicacion del temporizador",  //NEW
+es:  "Revisa la explicacion del contador",  //NEW
 
 //Timer explanation //NEW
 en:  "Why starve taming?",
-es:  "", 
+es:  "¿Porque domar dejando a las criaturas hambrientas?",  //NEW
 en:  "To get things straight: starve taming does not have any influence on the total time your tame will take. Instead, it is mostly used to minimize risk on important tames. The advantage of starve taming is that you don't use food yet, meaning that you can leave a tame if it for instance gets hit (and the effectiveness gets lowered), without losing your precious kibble.",
-es:  "", 
+es:  "Para hacer las cosas bien: domesticar dejando a los animales ambrientos no influye en el tiempo que tardarás en domarlo. En cambio, es el método más utilizado para minimizar los riesgos en las domas importantes. La ventaja de domar dejando a las criaturas hambrientas es que no utilizas comida solo empezar la doma, lo que significa que puedes dejar la doma si la criatura es golpeada (y la efectivadad baja) sin perder tus preciados piensos.", //NEW 
 en:  "How does the starve timer work?",
-es:  "", 
+es:  "¿Como funciona el contador para estar hambriento?", //NEW 
 en:  "First, make sure you have selected the right creature, level and food you are using for the tame.",
-es:  "", 
+es:  "Primero, asegurate de que has seleccionado la criatura, el nivel y la comida  que usaras para la doma correctamente.", //NEW 
 en:  "Fill in the max food stat of the creature you have knocked unconscious in the 'Max food' field",
-es:  "", 
+es:  "Introduce el nivel máximo de comida de la criatura que has dejado KO en el campo 'Comida máxima'", //NEW 
 en:  "Fill in the current food value of the creature, keep in mind that this can go down pretty quickly.",
-es:  "", 
+es:  "Introduce el nivel de comida actual de la critura, tene en cuenta que puede reducirse rápidamente", //NEW 
 en:  "Optionally; set an alarm by checking the box and setting a value when you want to be noticed. Tip: make sure you will have enough time to get back to your game when you hear the alarm.",
-es:  "", 
+es:  "Opcionalmente, puedes configurar una alarma para ser avisado introduciendo el tiempo y marcando el checkbox. Consejo: asegurate de tener suficiente tiempo para volver al juego cuando suena la alarma.",  //NEW
 en:  "Press start to start the timer. You can also leave the app (and even kill it), as the timer will work in the background in those cases.",
-es:  "", 
+es:  "Presione comezar para iniciar el contador. Se puede cerrar la aplicación (e incluso matar el proceso), en ambos casos el contador seguirá contando en segundo plano",  //NEW
 en:  "What does the target food indicate?",
-es:  "", 
+es:  "¿Que indica la comida objeto?",  //NEW
 en:  "Some creatures will not have a high enough food stat to be fully starved. If that is the case, the target food will be negative and indicate that, when its food has reached 0, can not be tamed in one go. If this is the case, the starve timer will count down until the food has reached 0. If the creature has a high enough food stat, the target food value will indicate when the creature has lost enough food to eat everything in one go. If you've then reached this target value, fill the creature up and watch it eat everything until tamed!",
-es:  "", 
+es:  "Algunas criaturas no tienen un nivel suficiente de comida para domarlos al quedar hambrientos. En ese caso, la comida objetivo se mostrará negativa e indicará que, en el momento que haya llegado a 0, el animal no será domado completamente. Si es el caso, el contador para dejar hambriento bajará hasta que el nivel de comida llegue a 0. Si la criatura tiene suficiente nivel de comida, la comida objetivo indicará el valor al que debe descender la comida para domarla completamente. Si ha alcanzado el nivel indicado, ¡introduce la comida en la criatura y observala como lo consume todo hasta ser domado! ",  //NEW
 en:  "How does the narcotic timer work?",
-es:  "", 
+es:  "¿Como funciona el contador de narcóticos?",  //NEW
 en:  "Simply put, the narcotic timer counts down from the given torpor amount until 0. You only have to fill in the creature's current torpor and press start for it to work.",
-es:  "", 
+es:  "En pocas palabras, el contador de narcoticos va bajando desde la incosciencia indicada hasta llegar a 0. Solo debes introducir la inconsciencia actual de la criatura y pulsar comenzar para hacerlo funcionar",  //NEW
 en:  "Tip: Make sure to set the alarm in a way that you will be able to reach the creature in time; it WILL wake up if it reaches 0.",
-es:  "", 
+es:  "Consejo: Asegurate de configurar la alarma de forma que seas capaz de de volver donde está la criatura a tiempo; si no, se DESPERTARÁ al llegar a 0",  //NEW
 en:  "What do the icons above the timer mean?",
-es:  "", 
+es:  "¿Que significan los iconos sobre el contador?", //NEW 
 en:  "You can toggle between the use of narcotics and narcoberries by using the icons above the timer. This will change the indications of the amount and time needed to fully refill the creature's torpor.",
-es:  "", 
+es:  "Puedes seleccionar el uso de narcóticos o narcoberries usando estos iconos. Esto calculará las cantidades y tiempo necesarios para llenar completamente el nivel de inconsciencia de la criatura",  //NEW
 
 //Breeding tab
 en:  "Breeding Information",
 es:  "Información de cría", //NEW
 en:  "The {0} is not breedable yet, or no information is currently known.",
-es:  "El {0} nopuede criar por ahora, o no hay información",  //NEW
+es:  "El {0} no puede criar por ahora, o no hay información",  //NEW
 en:  "Temperature Range",
 es:  "Rango de temperatura",  //NEW
 en:  "Total time",
@@ -363,15 +363,15 @@ es:  "Comida Total",
 en:  "Food Rate",
 es:  "Ratio de Comida",
 en:  "Max Torpor",
-es:  "Torpor Máximo",
+es:  "Insconsciencia máxima", //CORRECTED
 en:  "Torpor Rate",
-es:  "Ratio de Topor",
+es:  "Ratio de inconsciencia", //CORRECTED
 en:  "Base Damage",
 es:  "Daño Base",
 en:  "XP on kill",
 es:  "XP en muerte",
 en:  "Affinity (Supplied / Needed)",
-es:  "Afinidad (Suminstrada / Necesaria)",
+es:  "Afinidad (Suministrada / Necesaria)",
 en:  "Common Location",
 es:  "Localización Común",
 en:  "Carryable by",
@@ -389,7 +389,7 @@ es:  "Drops", //NEW
 en:  "Star ratings are out of 5",
 es:  "Las estrellas de puntuación son sobre 5", //NEW
 en:  "For even more creature info check out the",
-es:  "",
+es:  "Para más información sobre las criaturas, comprueba",
 en:  "{0} Wiki Page!",
 es:  "Página {0} de la wiki", //NEW
 en:  "Argentavis",
@@ -407,13 +407,13 @@ es:  "Tapejara", //NEW
 en:  "General Info",
 es:  "Información en general",  //NEW
 en:  "Note that the calculations might not be perfect as the exact amounts of food depend on spoilage and stacksizes. Therefore it is recommended to use it as a guide instead of fully relying on the indicated times! (click to dismiss)",
-es:  "",
+es:  "Tenga en cuenta que los cálculos pueden no ser perfectos, ya que las cantidades exactas de alimentos dependen del deterioro y de la apilación en el inventario. Por lo tanto, ¡se recomienda utilizarlo como una guía en lugar de depender plenamente de los tiempos indicados! (Haga clic para descartar) ", //NEW
 en:  "Remainder",
 es:  "Recordatorio", //NEW
 en:  "Max",
 es:  "Máximo", //NEW
 en:  "The remainder is the amount of food you still need, based on your current progress. The amounts do not account for spoilage!",
-es:  "",
+es:  "El recordatorio es la cantidad de comida que todavía necesitas, basado en el progreso actua. ¡Las cantidades no tienen en cuenta el deterioro!", //NEW
 en:  "Progress",
 es:  "Progreso",
 en:  "Current weight",
