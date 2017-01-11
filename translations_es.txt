@@ -183,7 +183,7 @@ es:  "El ataque principal de la Authropleura causa inconsciencia y puede ser usa
 en:  "Much like the scorpion, the Beelzebufo applies torpor to its target in a timespan of 10 seconds. In between these 10 seconds, you are not able to apply torpor to the target again. If you decide to attack a target while these 10 seconds are not over yet, you will only inflict normal damage and no torpor damage. Furthermore, the Beelzebufo has two types of attacks which do different amounts of torpor damage. The left mousebutton attack (shoot out tonque) will result in less torpor damage, and is denoted by the maximum amount of licks you will need. Alternatively, the right mousebutton attack (tonque swing) is denoted by the minimum amount of licks.",
 es:  "Como el escorpión, el Beelzebufo aumenta la inconsciencia de su objetivo en un intervalo de 10 segudos. Durante esos 10 segundos, no se puede incrementar el nivel de insconsciencia por otros medios. Si decides atacar mientras no hayan transcurrido esos 10 segundos, sólo producirás daño al objetivo sin aumentar la inconsciencia. Además, el Beelzebufo tiene dos tupos de ataque y cada uno provoca una cantidad diferente de inconsciencia. El ataque con el botón derecho del ratón (lengüetazo) produce menos insconsciencia, se puede comprobar por la cantidad de ataques que se necesitan. Con el botón derecho del ratón (balanceo de lengua) verás que se necesitan menos ataques", //NEW
 en:  "The pachy has two kinds of attacks, charged and non-charged, that both do instant torpor damage to the target. The charged attack, indicated by the minimum amount of blows, does much more torpor damage than the non-charged attack, however the attack is hard to steer in the right direction.",
-es:  "El pachy tiene dos tipos de ataque, el cargado y el nornal que producen aumento de inconsciencia al objetivo. El ataque cargado, más indicadado por reducir la cantidad de golpes, produce mucha más inconsciencia que el ataque normal, sin embargo al atacar es más dificil mantenerse la dirección correcta", //NEW
+es:  "El pachy dispone de dos tipos de ataque, el cargado y el normal, que producen un aumento de inconsciencia al objetivo. El ataque cargado, más indicado por requerir menor cantidad de golpes, produce mucha más inconsciencia que el ataque normal, sin embargo al atacar es más dificil mantenerse en la dirección correcta", //NEW
 
 //KO Techniques
 en:  "Bow",
@@ -433,29 +433,29 @@ es:  "Fase de bebé ({0}%)", //NEW
 en:  "Food until juvenile",
 es:  "Comida para joven", //NEW
 en:  "Desired buffer time (minutes)",
-es:  "",
+es:  "Tiempo de búfer deseado (minutos)",  //NEW
 en:  "Until desired",
-es:  "",
+es:  "Hasta que se desee",  //NEW
 en:  "The current buffer indicates how long the baby can last with the food it can hold, based on its current weight. You can input a desired buffer to see how long it takes until it reaches that buffer. The maximum buffer is the largest buffer that the baby can obtain at 10% of the maturation.",
-es:  "",
+es:  "El búfer actual indica cuanto tiempo puede mantenerse el bebé con la comida que puede cargar, basado en su peso actual. Puedes introducir el búfer deseado para ver cuanto tardaría hasta alcanzar ese búfer. El búfer máximo es el búfer mas grande que el bebé puede obtener al alcanzar el 10% de su crecimiento",  //NEW
 en:  "Imprinting",
-es:  "",
+es:  "Cuidando ",  //NEW
 en:  "% per action",
-es:  "",
+es:  "% por acción",  //NEW
 en:  "Actions needed",
-es:  "",
+es:  "Acciones necesarias",  //NEW
 en:  "Approximate",
-es:  "",
+es:  "Aproximado",  //NEW
 en:  "Only one player can imprint a newborn creature. Depending on the amount of care that person is able to give, the stats of the creature will gain additional bonuses!",
-es:  "",
+es:  "Solo un jugador puede cuidar a la criatura recien nacida. Dependiendo de la cantidad de cuidados que le procure, obtendrá bonus adicionales en las estadísticas de la criatura",  //NEW
 en:  "During the maturation of the creature, it will ask for care multiple times. You can see when the next moment will be by looking at the \"Wants care in\" text. Once that timer runs out, it will ask for one the following things:",
-es:  "",
+es:  "Durante la maduración de la criatura, esta solicitará cuidados varias veces. Puedes ver cuando volverá a pedirlos mirando en el indicador "\Requiere cuidados en\"",
 en:  "Wants a random kibble - put the requested kibble on slot 0 and press E",
-es:  "",
+es:  "Quiere un pienso aleatorio - pon el pienso solicitado en el slot 0 y presiona E",
 en:  "Wants a cuddle - walk up to it and press E",
-es:  "",
+es:  "Quiere un abrazo - acércate a él y presiona E",
 en:  "Wants to go for a walk - whistle it to follow and walk directly away from the creature (so not in circles!)",
-es:  "",
+es:  "Quiere ir a caminar - sílbale para que te siga y camina hacia el lado contrario a donde está la criatura (¡no en circulos!)",
 
 //Stats calculator
 en:  "Calculator",
@@ -483,15 +483,15 @@ es:  "Promedio", //NEW
 en:  "Above average",
 es:  "Promedio superior", //NEW
 en:  "Note: Speed is never increased pre-tame, meaning that all 'missing' points went into speed. The calculator therefore automatically puts all unused points into speed.",
-es:  "",
+es:  "Nota: La velocidad nunca crece en la pre-doma, esto significa que los puntos 'perdidos' se añadirán a la velocidad. Por lo tanto, la calculadora añadirá todos los puntos no asignados a la velocidad.",  //NEW
 en:  "Base (lvl 1)",
-es:  "",
+es:  "Base (nivel 1)",  //NEW
 en:  "Wild",
 es:  "Salvaje", //NEW
 en:  "Tamed",
-es:  "Tameado", //NEW
+es:  "Domado", //NEW
 en:  "Absolute speed values",
-es:  "",
+es:  "Valores absolutos de velocidad", //NEW
 en:  "Swimming",
 es:  "Nadando", //NEW
 en:  "Walking",
@@ -501,7 +501,7 @@ es:  "Volando", //NEW
 en:  "Sprint Wild",
 es:  "Corriendo salvaje", //NEW
 en:  "Sprint Tamed",
-es:  "Corriendo tameado", //NEW
+es:  "Corriendo domado", //NEW
 en:  "Base Experience",
 es:  "Experiencia base", //NEW
 en:  "Exp from kill (100%)",
@@ -511,7 +511,7 @@ es:  "Experiencia como conductor (50%)", //NEW
 en:  "Exp as mount (25%)",
 es:  "Experiencia como pasajero (25%)", //NEW
 en:  "Tip: You can change the amount of creatures by going to the settings page (click to dismiss)",
-es:  "",
+es:  "Consejo: Puedes cambiar la cantidad de critauras accediendo a la página de configuración (click para descartar)", //NEW
 en:  "Health",
 es:  "Vida",
 en:  "Stamina",
@@ -555,15 +555,15 @@ es:  "Ruptura", //NEW
 en:  "No resources needed or no items selected",
 es:  "No hay recursos necesarios o no hay objetos seleccionados", //NEW
 en:  "Reset",
-es:  "Resetear", //NEW
+es:  "Reiniciar", //CORRECTED
 en:  "Are you sure you want to remove all selected items?",
 es:  "¿Estás seguro que quieres eliminar todos los objetos seleccionados?",
 
 //Survivor Profile
 en:  "In the list above, you'll find all the available dossiers in the same order as they are displayed in the game. For quick reference, the colored names indicate whether you need to tame (blue) or kill (purple) the corresponding creature. A special case is the DodoRex, as it can only be unlocked during events.",
-es:  "",
+es:  "En la lista inferior puedes encontrar todos los expediente en el mismo orden que se muestran en el juego. Como referencia, los nombres coloreados indican si necesitas domar (blue) o matar (morado) la criatura correspondiente. Un caso especial es el DodoRex, ya que solo puede ser desbloqueado durante los eventos.", //NEW
 en:  "When you've unlocked a dossier, you can click on the corresponding icon to 'tick' it. That way you can keep track of the dossiers you've unlocked and can easily see which creatures you still have left to go!",
-es:  "",
+es:  "Cuando desbloquee un expediente, puede hacer ckick en el icono corresponiente para marcarlo. De esta manera, puedes seguir la pista de los expediente que has desbloqueado y ver que criaturas tienes pendientes", //NEW
 
 //Maps
 en:  "ARK Maps Overview",
@@ -603,7 +603,7 @@ es:  "Receta", //NEW
 en:  "Always use blueprint path (even if ID is available)",
 es:  "Usa siempre que esté disponible la ruta de la Receta",
 en:  "Tip: You can click on an item and it will copy the corresponding command to your clipboard. Commands can be adjusted by editing the fields above (click to dismiss)",
-es:  "",
+es:  "Consejo: Puedes hacer click en un objeto y se copiará el comando asociado en tu portapapeles. Se pueden ajustar los comandos editando los campos inferiores (click para descartar)", //NEW
 en:  "Random Lvl",
 es:  "Nivel aleatorio", //NEW
 en:  "or",
@@ -613,7 +613,7 @@ es:  "Nivel", //NEW
 en:  "Distance",
 es:  "Distancia", //NEW
 en:  "Tip: You can click on a creature and it will copy the corresponding command to your clipboard. Commands can be adjusted by editing the fields above (click to dismiss)",
-es:  "",
+es:  "Consejo: Puedes hacer click en una criatura y se copiará el comando asociado en tu portapapeles. Se pueden ajustar los comandos editando los campos inferiores (click para descartar)", //NEW
 en:  "Creature",
 es:  "Criatura", //NEW
 en:  "Color",
@@ -623,7 +623,7 @@ es:  "Comandos", //NEW
 en:  "Colors",
 es:  "Colores", //NEW
 en:  "Tip: You can click on a creature's region and it will copy the corresponding command to your clipboard. Commands can be adjusted by editing the fields above (click to dismiss)",
-es:  "",
+es:  "Consejo: Puedes hacer click en una región de la criatura y se copiará el comando asociado en tu portapapeles. Se pueden ajustar los comandos editando los campos inferiores (click para descartar)", //NEW
 en:  "Region {0}",
 es:  "Región {0}", //NEW
 en:  "This region is not available for this creature",
@@ -665,57 +665,57 @@ es:  "Rojo oscuro", //NEW
 en:  "White",
 es:  "Blanco",
 en:  "Dino Light Red",
-es:  "",
+es:  "Rojo claro para dinos", //NEW
 en:  "Dino Dark Red",
-es:  "",
+es:  "Rojo oscuro para dinos",  //NEW
 en:  "Dino Light Orange",
-es:  "",
+es:  "Naranja claro para dinos", //NEW
 en:  "Dino Dark Orange",
-es:  "",
+es:  "Naranja oscuro para dinos", //NEW
 en:  "Dino Light Yellow",
-es:  "",
+es:  "Amarillo claro para dinos", //NEW
 en:  "Dino Dark Yellow",
-es:  "",
+es:  "Amarillo oscuro para dinos", //NEW
 en:  "Dino Light Green",
-es:  "",
+es:  "Verde claro para dinos", //NEW
 en:  "Dino Medium Green",
-es:  "",
+es:  "Verde medio para dinos", //NEW
 en:  "Dino Dark Green",
-es:  "",
+es:  "Verde oscuro para dinos", //NEW
 en:  "Dino Light Blue",
-es:  "",
+es:  "Azul claro para dinos", //NEW
 en:  "Dino Dark Blue",
-es:  "",
+es:  "Azul oscuro para dinos", //NEW
 en:  "Dino Light Purple",
-es:  "",
+es:  "Morado claro para dinos", //NEW
 en:  "Dino Dark Purple",
-es:  "",
+es:  "Morado oscuro para dinos", //NEW
 en:  "Dino Light Brown",
-es:  "",
+es:  "Marrón oscuro para dinos", //NEW
 en:  "Dino Medium Brown",
-es:  "",
+es:  "Marrón medio para dinos", //NEW
 en:  "Dino Dark Brown",
-es:  "",
+es:  "Marrón oscuro para dinos", //NEW
 en:  "Dino Darker Grey",
-es:  "",
+es:  "Gris oscuro para dinos", //NEW
 en:  "Dino Albino",
-es:  "",
+es:  "Dinosario albino", //NEW
 en:  "BigFoot0",
-es:  "",
+es:  "BigFoot0", //NEW
 en:  "BigFoot4",
-es:  "",
+es:  "BigFoot4", //NEW
 en:  "BigFoot5",
-es:  "",
+es:  "BigFoot5", //NEW
 en:  "Wolf Fur",
-es:  "",
+es:  "Piel de lobo", //NEW
 en:  "Dark Wolf Fur",
-es:  "",
+es:  "Piel de lobo oscura", //NEW
 en:  "Search...",
-es:  "", //NEW
+es:  "Buscar...", //NEW
 en:  "Keep in mind that you need to use the EnableCheats command first before most of the commands will work on a multiplayer server! This is not necessary when playing singleplayer. Also note that some of the parameters have to be filled in by yourself (e.g. Steam64ID or PlayerUE4ID)",
-es:  "", //NEW
+es:  "Recuerda que debes usar el comando EnableCheats previamente para que los comandos se puedan usar en un servidor multijugador. Esto no es necesario cuando se juega en modo un jugador. También tenga en cuenta que ciertos parametros deben ser completados por usted (p.e. Steam64ID pr PlayerUE4ID)", //NEW
 en:  "Tip: You can click on a command to have it copied to your clipboard. (Click to dismiss)",
-es:  "", //NEW
+es:  "Consejo: Puedes hacer click en un comando para copiarlo en tu portapapeles (click para descartar)", //NEW
 
 //Dino harvesting / drops
 en:  "Dropped by",
@@ -723,7 +723,7 @@ es:  "Dropeado por", //NEW
 en:  "Top harvesters",
 es:  "Top cosechadores", //NEW
 en:  "Star ratings are out of 5 and based on tests. If you think something is incorrect or outdated, let me know!",
-es:  "", //NEW
+es:  "La puntuación máxima en estrellas es de 5 y está basado en pruebas. Si crees que algo es incorrecto o no está actualizado, ¡házmelo saber!", //NEW
 
 //Dino abilities
 en:  "Thatch",
@@ -755,111 +755,111 @@ es:  "Puerta Behemoth",
 
 //Achievements
 en:  "Artifact Archaeologist",
-es:  "",
+es:  "Artefactors arqueológicos",//NEW
 en:  "You personally retrieved all Eight Artifacts!",
-es:  "",
+es:  "¡Has recuperado personalmente los ocho artefactos!",//NEW
 en:  "In order to get this achievement, you'll need to collect every artifact in each of the caves. They need to loot the artifact from the loot crate in the cave and place them in your inventory for the game to register it correctly. This means that you cannot get this achievement by spawning in the items!",
-es:  "",
+es:  "Para obtener este logro, tendrá que recoger todos los artefactos en cada una de las cuevas. Necesita saquear el artefacto de la caja de botín de la cueva y colocarlos en su inventario para que el juego lo registre correctamente. ¡Esto significa que usted no puede conseguir este logro compartiendo los artículos!",//NEW
 en:  "Expert Survivor",
-es:  "",
+es:  "Sperviviente experto",//NEW
 en:  "You defeated ARK's second Ultimate Life Form!",
-es:  "",
+es:  "Has derrotado la segunda forma de vida definitiva de ARK", //NEW
 en:  "You get this achievement when you kill the Megapithecus in its boss arena. You can kill this in a team and still get the achievement if you do not deliver the final blow. However, it has been reported that the achievement does not trigger if you were mounted on a creature while the boss was killed.",
-es:  "",
+es:  "Obtendrás este logro cuando mates al Megapithecus en su zona de combate. Puedes matarlo en equipo y conseguir el logro incluso si no le da el golpe mortal. Sin embargo, se ha informado que el logro no saltará si está montado en una criatura cuando el jefe muera.", //NEW
 en:  "Fear Evolved - DodoRex Hunter",
-es:  "",
+es:  "Miedo evolucionado - La caza del Dodorex", //NEW
 en:  "You hunted down and slayed the elusive DodoRex, and claimed its army of Zombie Dodos!",
-es:  "",
+es:  "Has dado caza y asesinado al exclusivo DodoRex, ¡y has reclamado su ejercito de dodos zombies!",
 en:  "Originally, you got this achievement if you had defeated the DodoRex during the ARK: Fear Evolved event. However, it is also possible to get this achievement in various other events. Most of the later events make it possible to summon the DodoRex and this achievement might trigger for the person that summoned it (unfortunately, it does not work in every event).",
-es:  "",
+es:  "Originalmente, obtenías este logro si derrotabas al Dodorex durante el evento ARK: Fear Evolved. Sin embargo, también es posible obtener este logro en otros eventos. La mayoría de eventos permiten convocar al Dodorex y el logro se le otorgará a la persona que lo convoque (desafortunadamente, esto no funciona en todos los eventos).", //NEW
 en:  "Master Survivor",
-es:  "",
+es:  "Superviviente mestro", //NEW
 en:  "You defeated ARK's third Ultimate Life Form!",
-es:  "",
+es:  "¡Has derrotado a la tercera forma de vida definitiva de ARK", //NEW
 en:  "This achievement is obtained by defeated the Dragon in its boss arena. You do not need to deliver the final blow personally, meaning that you can take it on with a team and still get the achievement. However, it has been reported, much like the Megapithecus achievement, that you will not receive the achievement if you were mounted on a creature while the Dragon gets killed.",
-es:  "",
+es:  "Este logor se obtiene venciendo al Dragón en su zona de combate. No es necesario propinar el golpe mortal personalmente, lo que significa que puedes acabar con él en equipo y obtener el trofeo igualmetne. Sin embargo, se ha reportado, como con el logro del Megapithecus, que no se recibirá el logro si se está montando en una criatura en el momento en que se mate al Dragón.", //NEW
 en:  "Survivor Evolved",
-es:  "",
+es:  "Superviviente evolucionado", //NEW
 en:  "You've defeated ARK's first three Ultimate Life Forms! And yet...",
-es:  "",
+es:  "¡Has derrotado las primeras tres formas de vida definitiva de ARK! Y todavía...", //NEW
 en:  "Currently it is not known how to obtain this achievement. Even after you've killed the three bosses (Dragon, Megapithecus and Broodmother) this achievement does not trigger.",
-es:  "",
+es:  "Actualmente no se conoce como obtener este logro. Incluso después de derrotar los tres jefes (Drago, Megapithecus y BroodMother) este trofeo no ha saltado", //NEW
 en:  "Veteran Paleontologist",
-es:  "",
+es:  "Paleontólogo veterano",
 en:  "You unlocked the Dossiers of each of ARK's initial Specimens!",
-es:  "",
+es:  "¡Has desbloqueado los expedientes de cada espécimen inicial de ARK!", //NEW
 en:  "This achievement will be obtained after you've unlocked every dossier in your Survivor Profile (with the exception of the DodoRex). This means that you need to tame every creature that can be tamed and kill the creatures that cannot. Make sure that you are standing close enough when taming, or the dossier will not be unlocked. For killing, it is necessary to kill the creatures yourself and not with your mount to get the dossier. Currently you also need to kill the 3 bosses to fully unlock your survivor profile. For more information on which creatures to tame and kill, check out the survivor profile in the app.",
-es:  "",
+es:  "Obtendrás este logro después de haber desbloqueado todos los expediente en tu Perfil de Superviviente (a excepción del DodoRex). Esto significa que debes haber domado a cada criatura que se pueda domar y matado a cada una que no se pueda. Es necesario que tu personaje haya matado a la criatura sin montar ninguna criatura para que se añada al expediente. También es necesario haber eliminado a los 3 jefes finales para completar tu perfil de superviviente. Para más información sobre que criaturas domar y que criaturas matar, comprueba tu perfil de superviviente en la app.", //NEW
 en:  "Veteran Survivor",
-es:  "",
+es:  "Superviviente veterano",
 en:  "You defeated ARK's first Ultimate Life Form!",
-es:  "",
+es:  "¡Has derroado la primera forma de vida definitiva en ARK!",
 en:  "In order to get this achievement, you'll need to kill Broodmother Lysrix in its boss arena. Again, just as with the other bosses, you do not need to deliver the final blow yourself, so you can take it on with a team. However, do make sure that you are not mounted on a creature when the boss is killed, or you will not receive the achievement.",
-es:  "",
+es:  "Para conseguir este logro, necesitarás eliminar BroodMother Lysrix en su zona de combate. De nuevos, como con los otros jefes, no es necesario que des el golpe mortal por ti mismo, por lo que puedes acabar con él en equipo. Sin embargo, asegúrate que no estás montado en una criatura cuando el jefe sea derrotado o no recibirás el logro",
 
 //Diseases
 en:  "Swamp Fever",
-es:  "",
+es:  "Fiebre del pantano",
 en:  "A fever that you can contract from leeches in the swamp or other players.",
-es:  "",
+es:  "Fiebre que se puede contraer de las sanguijuelas del pantano o de otros jugadores",
 en:  "Effect",
-es:  "",
+es:  "Efecto",
 en:  "50% reduction in Food-, Water- and Oxygen consumption",
-es:  "",
+es:  "Reducción de la comida, agua y oxigeno en un 50% ",
 en:  "20% reduction in Health, Stamina, Melee Damage and Weight",
-es:  "",
+es:  "20% de reducción de vida, energía, daño cuerpo a cuerpo y peso",
 en:  "20% increase in Movement speed",
-es:  "",
+es:  "Incrementeo de un 20% en la velocidad de movimiento",
 en:  "A green haze is added to first-person view (and can be seen around a player's head in third-person view)",
-es:  "",
+es:  "Se añade un aura verde de la vista en primera persona (y se puede ver alrededor de la cabeza del jugador en la vista en tercera persona)",
 en:  "How to contract",
-es:  "",
+es:  "Como contraer",
 en:  "Direct contact with an infected Leech",
-es:  "",
+es:  "Contacto directo con sanguijuela infectada",
 en:  "Airborne transmission from infected other players or infected tamed dodos (on PvP)",
-es:  "",
+es:  "Transmisión aérea de otros jugadores infectados o de dodos infectados domados (en PvP)",
 en:  "Airborne transmission from infected tribemates (PvE)",
-es:  "",
+es:  "Transmisión aérea de compañeros de tribu infectados (PvE)",
 en:  "In order to not get covered with leeches while going to the swamp, it is advised to use Bug Repellant. While it is active, leeches will not attack you unless provoked.",
-es:  "",
+es:  "Para no acabar cubierto de sanguijuelas durante una visita al pantano, se recomienda el uso de repelente de insectos. Mientras esté activo, las sanguijuelas no te atacarán a menos que las provoques",
 en:  "Effect",
-es:  "",
+es:  "Efecto",
 en:  "How to contract the disease",
-es:  "",
+es:  "Como contraer la enfermedad",
 en:  "Cure",
-es:  "",
+es:  "Cura",
 en:  "Lesser Antidote",
-es:  "",
+es:  "Antídoto pequeño",
 en:  "After using the lesser antidote, you'll be immune for 3 minutes.",
-es:  "",
+es:  "Al usar el antídoto pequeño, serás inmune durante 3 minutos",
 en:  "Level required: {0}",
-es:  "",
+es:  "Nivel requerido {0}",
 en:  "Engram points: {0}",
-es:  "",
+es:  "Puntos de engrama: {0}",
 en:  "Ingredients",
 es:  "Ingredientes",
 en:  "Mortar & Pestle",
-es:  "",
+es:  "Mortero",
 en:  "Chemistry Bench",
-es:  "",
+es:  "Mesa de química",
 
 //Flyer Pickups
 en:  "The Pteranodon can pick up players and the small-sized creatures that are listed below.",
-es:  "",
+es:  "El Pteranodon puede cargar con jugadores y las criaturas pequeñas del listado inferior",
 en:  "The Argentavis can pick up everything the Pteranodon can and, in addition, the medium-sized creatures that are listed below.",
-es:  "",
+es:  "El Argentavis puede cargar lo mismo que el Pteranodo, y además, las criaturas de tamañao medio de la lista inferior",
 en:  "The Quetzalcoatlus can pick up everything the Pteranodon and Argentavis can and, in addition, the large-sized creatures that are listed below.",
-es:  "",
+es:  "El Quetzalcoatlus puede cargar lo mismo que el Pteranodon y el Argentavis, además de las criaturas de gran tamaño de la lista inferior",
 en:  "Not carry-able",
-es:  "",
+es:  "No se puede dargar",
 en:  "There are also creatures available that can (currently) not be carried. In general these include alpha-, flying- and water creatures.",
-es:  "",
+es:  "Hay criaturas que (actualmente) no pueden ser cargadas. En general estas incluyen alphas, voladoras y criaturas acuáticas",
 
 //Recipes
 en:  "Search for a dish",
-es:  "",
+es:  "Buscar un plato",
 en:  "Battle Tartare",
-es:  "",
+es:  "Tartar de batalla",
 en:  "Increases melee damage by 65%, speed by 50%, reduces damage taken by 15%, increases your stamina regeneration and makes you eat food 50% faster. Note; you will also lose 0.45 health per second (so 90 health in total) while it is active.",
 es:  "",
 en:  "Broth of Enlightenment",
