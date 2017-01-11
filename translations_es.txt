@@ -7,7 +7,7 @@ es:  "Versión Pro (Libre de Publicidad)",
 en:  "Dashboard", 
 es:  "Tablero", //NEW
 en:  "Taming Calculator",
-es:  "Calculadora de Tameo",
+es:  "Calculadora de Doma",
 en:  "Breeding Calculator",
 es:  "Calculadora de cría", //NEW
 en:  "Engram Calculator",
@@ -37,7 +37,7 @@ es:  "Habilidades de dinosaurios", //NEW
 en:  "Flyer Pickups",
 es:  "Recoger Volando",
 en:  "Kibble Flowchart",
-es:  "Diagrama de Kibble", //NEW
+es:  "Diagrama de piensos", //NEW
 en:  "Recipes",
 es:  "Recetas", //NEW
 en:  "Supply Drops",
@@ -77,7 +77,7 @@ es:  "Descargar la versión PRO", //NEW
 
 //Taming calculator + tabs
 en:  "Taming",
-es:  "Tameo", //NEW
+es:  "Doma", //NEW
 en:  "Recipes",
 es:  "Recetas", //NEW
 en:  "Timers", //NEW
@@ -97,7 +97,7 @@ es:  "Máximo", //NEW
 en:  "Time",
 es:  "Tiempo", //NEW
 en:  "Tame info",
-es:  "Información de tameo", //NEW
+es:  "Información de doma", //NEW
 en:  "Narcotics needed",
 es:  "Narcóticos necesarios", //NEW
 en:  "Narcoberries needed",
@@ -107,7 +107,7 @@ es:  "Tiempo para rellenar", //NEW
 en:  "Time to drain torpor",
 es:  "Tiempo en bajar el torpor", //NEW
 en:  "Total tame time",
-es:  "Tiempo total de tameo", //NEW
+es:  "Tiempo total de doma", //NEW
 en:  "Local time done",
 es:  "",
 en:  "effectiveness",
@@ -123,9 +123,9 @@ es:  "Máximo nivel después del entrenamiento", //NEW
 en:  "Important creature info",
 es:  "Información importante de la criatura", //NEW
 en:  "This creature can only be tamed non-violently. Therefore torpor does not apply and is left out.",
-es:  "Esta criatura solo puede ser tameada en el modo no violento", //NEW
+es:  "Esta criatura solo puede ser domesticada en el modo no violento", //NEW
 en:  "Also note that the initial feeding interval can be larger, due to food first having to drop a certain percentage for non-violent tames.",
-es:  "También tenga en cuenta que el intervalo de alimentación inicial puede ser mayor, debido a que los alimentos primero tienen que bajar un cierto porcentaje para los tameos no violentos.", //NEW
+es:  "También tenga en cuenta que el intervalo de alimentación inicial puede ser mayor, debido a que los alimentos primero tienen que bajar un cierto porcentaje para la doma no violenta.", //NEW
 en:  "KO Techniques",
 es:  "Técnicas para el K.O.", //NEW
 en:  "Edit",
@@ -155,35 +155,35 @@ es:  "Basado solo en el daño cuerpo a cuerpo", //NEW
 en:  "Be safe; always bring extra supplies",
 es:  "Cuidate; lleva siempre provisiones adicionales", //NEW
 en:  "Info: Hitboxes that are not shown have no additional multipliers, meaning that they require the same amounts as indicated by 'Body'. Kill % is the chance you'll kill the creature before it is knocked out. The ratio indicates the damage to torpor ratio of the weapon",
-es:  "Info: Las hitbox que no se muestran no tienen multiplicadores adicionales, lo que significa que requieren las mismas cantidades indicadas por 'Body'. El porcentaje de muerte es la posibilidad de que matar a la criatura antes de que sea eliminado. La relación indica el daño a la relación de torpor del arma", //NEW
+es:  "Info: Las hitbox que no se muestran no tienen multiplicadores adicionales, lo que significa que requieren las mismas cantidades indicadas por 'Body'. El porcentaje de muerte es la posibilidad de matar a la criatura antes de dejarla inconsciente. La relación indica el daño a la relación de torpor del arma", //NEW
 en:  "Additional Info",
 es:  "Información adicional", //NEW
 en:  "The bow does a little bit of instant torpor damage and the rest of the torpor is added over the next 4 seconds. This means that for the best torpor-to-damage ratio, you need to wait 5 seconds between shots. However, since torpor stacks, you can also fire arrows as quickly as you can. This is especially useful for creatures with high torpor regeneration or high health.",
-es:  "",
+es:  "El arco produce un poco de inconsciencia instantánea, pero el resto de la inconsciencia se añade en los siguientes 4 segundos. Esto significa que para ajustar el mejor ratio de daño/inconsciencia, es necesario esperar 5 segundos entre disparos. Sin embargo, hasta que se llene la inconsciencia, puedes disparar flechas tan rápido como puedas. Esto es especialmente útil para las criaturas con un alto nivel de regeneración de inconsciencia o con mucha vida.", //NEW
 en:  "The crossbow does a little bit of instant torpor damage and the rest of the torpor is added over the next 4 seconds. This means that for the best torpor-to-damage ratio, you need to wait 5 seconds between shots. However, since torpor stacks, you can also fire arrows as quickly as you can. This is especially useful for creatures with high torpor regeneration or high health.",
-es:  "",
+es:  "La ballesta produce un poco de inconsciencia instantánea, pero el resto de la inconsciencia se añade en los siguientes 4 segundos. Esto significa que para ajustar el mejor ratio de daño/inconsciencia, es necesario esperar 5 segundos entre disparos. Sin embargo, para que la inconsciencia se acumule, puedes disparar flechas tan rápido como puedas. Esto es especialmente útil para las criaturas con un alto nivel de regeneración de inconsciencia o con mucha vida.", //NEW
 en:  "The compound bow is slightly better than the bow, but doesn't exceed the crossbow in dealing torpor. Therefore it is not the most efficient bow for taming.",
-es:  "",
+es:  "El arco compuesto es ligeramente mejor que el arco, pero no supera a la ballesta en producir inconsciencia. Por lo tanto, no es el mejor arco para domar.", //NEW
 en:  "The boomerang can be used to knockout creatures from a distance, without using ammo. If the Boomerang hits a target, it will fly straight back to you. If you miss, it will return by flying back to your counter-clockwise.",
-es:  "", //NEW
+es:  "El bumerán puede usarse para dejar KO a las critaruras desde la distancia, sin usar munición. Si el bumerán impacta en la criatura, volverá volando directo hacía ti. Si falla, regresará volando hacia ti en sentido antihorario", //NEW
 en:  "The longneck rifle can make use of the new tranquilizer darts to knock out enemies. Currently, these are one of the best weapons to apply torpor to a creature.",
-es:  "",
+es:  "El rifle largo puede usar los nuevos dardos tranquilizantes para dejar KO a los enemigos. Actualmente, el rifle es una de las mejores armas para aumentar la insconciencai a las criaturas.", //NEW
 en:  "Throwing rocks at your opponent is better than using your fists, however your melee damage does not apply here since it is about projectiles. Make sure you input the damage percentage of your slingshot in the field.",
-es:  "",
+es:  "Lanzar piedaras a tu oponente es mejor que usar tus puños, sin embargo tu daño cuerpo a cuerpo no se tiene en cuenta ya que son proyectiles. Asegúrate de que has introducido el porcentaje de daño de tu tirachinas en el campo.", //NEW
 en:  "The electric prod is the latest addition to the ARK. It does a massive amount of torpor damage and no damage to health. This makes it a perfect device for knocking out creatures for taming. Note that the weapon is single-use, so you might need multiple prods to knock out larger creatures.",
-es:  "",
+es:  "La porra eléctrica es la última incorporación en ARK. La porra produce un incremento masivo de inconsciencia sin producir daños. Esto lo convierte en el dispositivo perfecto para dejar KO a las criaturas para domarlas. Tenga en cuenta que este arma es de un solo uso, por lo que necesitarás disponer de varias para dejar KO a las criaturas más grandes", //NEW
 en:  "The club can be used to knock out your opponent and is based on both your melee damage and the damage percentage of the club itself. You can input your character's melee damage on the settings page of the app.",
-es:  "",
-en:  "Your fists (and the wooden club) are the only 'weapons' that will be influenced by your own melee damage, since it is not a projectile. Make sure you set your melee damage on the settings page.",
-es:  "",
+es:  "Se puede usar garrote para dejar KO al oponente y se aplica tanto tu daño cuerpo como el porcentaje de daño del propio garrote. Puedes introducir el porcentaje de daño cuerpo a cuerpo de tu personaje en la página de configuración de la aplicación", //NEW
+en:  "Your fists (and the wooden club) are the only 'weapons' that will be influenced by your own melee damage, since it is not a projectile. Make sure you set your melee damage on the settings page.", //NEW
+es:  "Tus puños (y el garrote de madera) son las únicas "armas" sobre las que aplica tu porcentaje de daño cuerpo a cuerpo, ya que no son proyectiles. Asegurate de haber introducido tu daño cuerpo a cuerpo en la página de configuración.", //NEW
 en:  "The scorpion applies torpor to its target in a timespan of 10 seconds. In between these 10 seconds, you are not able to apply torpor to the target again. If you decide to attack a target while these 10 seconds are not over yet, you will only inflict normal damage and no torpor damage.",
-es:  "",
+es:  "El escorpión porduce inconsciencia a su objetivo en un intervalo de 10 segundos. Durante esos 10 segundos, no se puede incrementar el nivel de insconsciencia por otros medios. Si decides atacar mientras no hayan transcurrido esos 10 segundos, sólo producirás daño al objetivo sin aumentar la inconsciencia", //NEW
 en:  "The Arthropluera's main attack deals torpor damage and can therefore be used for taming. However, the torpor is applied to the target in a timespan of 10 seconds and the torpor attacks do not stack in this case. The Arthropluera is slightly better than the scorpion for knocking creatures out.",
-es:  "",
+es:  "El ataque principal de la Authropleura causa inconsciencia y puede ser usado para domar. Sin embargo, la inconsciencia se produce en un intervalo de 10 segundos y los ataques no se acumulan entre ellos. La Arthropleura es ligeremante mejor que el escorpión para dejar KO a las criaturas.", //NEW
 en:  "Much like the scorpion, the Beelzebufo applies torpor to its target in a timespan of 10 seconds. In between these 10 seconds, you are not able to apply torpor to the target again. If you decide to attack a target while these 10 seconds are not over yet, you will only inflict normal damage and no torpor damage. Furthermore, the Beelzebufo has two types of attacks which do different amounts of torpor damage. The left mousebutton attack (shoot out tonque) will result in less torpor damage, and is denoted by the maximum amount of licks you will need. Alternatively, the right mousebutton attack (tonque swing) is denoted by the minimum amount of licks.",
-es:  "",
+es:  "Como el escorpión, el Beelzebufo aumenta la inconsciencia de su objetivo en un intervalo de 10 segudos. Durante esos 10 segundos, no se puede incrementar el nivel de insconsciencia por otros medios. Si decides atacar mientras no hayan transcurrido esos 10 segundos, sólo producirás daño al objetivo sin aumentar la inconsciencia. Además, el Beelzebufo tiene dos tupos de ataque y cada uno provoca una cantidad diferente de inconsciencia. El ataque con el botón derecho del ratón (lengüetazo) produce menos insconsciencia, se puede comprobar por la cantidad de ataques que se necesitan. Con el botón derecho del ratón (balanceo de lengua) verás que se necesitan menos ataques", //NEW
 en:  "The pachy has two kinds of attacks, charged and non-charged, that both do instant torpor damage to the target. The charged attack, indicated by the minimum amount of blows, does much more torpor damage than the non-charged attack, however the attack is hard to steer in the right direction.",
-es:  "",
+es:  "El pachy dispone de dos tipos de ataque, el cargado y el normal, que producen un aumento de inconsciencia al objetivo. El ataque cargado, más indicado por requerir menor cantidad de golpes, produce mucha más inconsciencia que el ataque normal, sin embargo al atacar es más dificil mantenerse en la dirección correcta", //NEW
 
 //KO Techniques
 en:  "Bow",
@@ -199,7 +199,7 @@ es:  "Rifle y Dardo",
 en:  "Slingshot",
 es:  "Tirachinas",
 en:  "Electric Prod",
-es:  "Picana Eléctrica",
+es:  "Porra Eléctrica",
 en:  "Wooden Club",
 es:  "Garrote",
 en:  "Fists",
@@ -217,11 +217,11 @@ es:  "Volver a la calculadora",
 
 //Recipe tab
 en:  "Kibble Recipe",
-es:  "Recetas de Kibble",  //NEW
+es:  "Recetas de pienso",  //CORRECTED
 en:  "Favorite Kibble ({0})",
-es:  "Kibble Favorito ({0})",
+es:  "Pienso favorito ({0})", //CORRECTED
 en:  "Favorite Kibble",
-es:  "Kibble Favorito",
+es:  "Pienso Favorito", //CORRECTED
 en:  "Preferred by {0}",
 es:  "Preferido por {0}",
 en:  "Preferred by",
@@ -229,7 +229,7 @@ es:  "Preferido por", //NEW
 en:  "Crafted in",
 es:  "Fabricado en",
 en:  "Produces Kibble",
-es:  "Kibble producido", //NEW
+es:  "Pienso producido", //CORRECTED
 en:  "Not applicable",
 es:  "No se aplica",
 en:  "Saddle",
@@ -243,11 +243,11 @@ es:  "Inventario",
 
 //Timer tab
 en:  "The timers do not apply to non-violent tames",
-es:  "",
+es:  "Los contadores no aplican en la doma no violenta", //NEW
 en:  "Starve Timer",
-es:  "",
+es:  "Contador para estar hambriento", //NEW
 en:  "Target food",
-es:  "",
+es:  "Comida objetivo",
 en:  "Current food",
 es:  "Comida actual",
 en:  "Max food",
@@ -263,11 +263,11 @@ es:  "Comenzar",
 en:  "Stop",
 es:  "Parar",
 en:  "Narcotics Timer",
-es:  "Temporizador de narcóticos", //NEW
+es:  "Contador de narcóticos", //NEW
 en:  "Toggle:",
 es:  "Cambiar", //NEW
 en:  "Current torpor",
-es:  "Torpot actual", //NEW
+es:  "Inconsciencia actual", //CORRECTED
 en:  "Give {0}",
 es:  "Dar {0}", //NEW
 en:  "Give",
@@ -279,47 +279,47 @@ es:  "Cantidad a rellenar", //NEW
 en:  "Time to refill",
 es:  "Tiempo para rellenar", //NEW
 en:  "Need some help with the timers?",
-es:  "¿Necesitas ayuda con los tiempos?",
+es:  "¿Necesitas ayuda con los contadores?", //NEW
 en:  "Check the timer explanation",
-es:  "Revisa la explicacion del temporizador",  //NEW
+es:  "Revisa la explicacion del contador",  //NEW
 
 //Timer explanation //NEW
 en:  "Why starve taming?",
-es:  "", 
+es:  "¿Porque domar dejando a las criaturas hambrientas?",  //NEW
 en:  "To get things straight: starve taming does not have any influence on the total time your tame will take. Instead, it is mostly used to minimize risk on important tames. The advantage of starve taming is that you don't use food yet, meaning that you can leave a tame if it for instance gets hit (and the effectiveness gets lowered), without losing your precious kibble.",
-es:  "", 
+es:  "Para hacer las cosas bien: domesticar dejando a los animales ambrientos no influye en el tiempo que tardarás en domarlo. En cambio, es el método más utilizado para minimizar los riesgos en las domas importantes. La ventaja de domar dejando a las criaturas hambrientas es que no utilizas comida solo empezar la doma, lo que significa que puedes dejar la doma si la criatura es golpeada (y la efectivadad baja) sin perder tus preciados piensos.", //NEW 
 en:  "How does the starve timer work?",
-es:  "", 
+es:  "¿Como funciona el contador para estar hambriento?", //NEW 
 en:  "First, make sure you have selected the right creature, level and food you are using for the tame.",
-es:  "", 
+es:  "Primero, asegurate de que has seleccionado la criatura, el nivel y la comida  que usaras para la doma correctamente.", //NEW 
 en:  "Fill in the max food stat of the creature you have knocked unconscious in the 'Max food' field",
-es:  "", 
+es:  "Introduce el nivel máximo de comida de la criatura que has dejado KO en el campo 'Comida máxima'", //NEW 
 en:  "Fill in the current food value of the creature, keep in mind that this can go down pretty quickly.",
-es:  "", 
+es:  "Introduce el nivel de comida actual de la critura, tene en cuenta que puede reducirse rápidamente", //NEW 
 en:  "Optionally; set an alarm by checking the box and setting a value when you want to be noticed. Tip: make sure you will have enough time to get back to your game when you hear the alarm.",
-es:  "", 
+es:  "Opcionalmente, puedes configurar una alarma para ser avisado introduciendo el tiempo y marcando el checkbox. Consejo: asegurate de tener suficiente tiempo para volver al juego cuando suena la alarma.",  //NEW
 en:  "Press start to start the timer. You can also leave the app (and even kill it), as the timer will work in the background in those cases.",
-es:  "", 
+es:  "Presione comezar para iniciar el contador. Se puede cerrar la aplicación (e incluso matar el proceso), en ambos casos el contador seguirá contando en segundo plano",  //NEW
 en:  "What does the target food indicate?",
-es:  "", 
+es:  "¿Que indica la comida objeto?",  //NEW
 en:  "Some creatures will not have a high enough food stat to be fully starved. If that is the case, the target food will be negative and indicate that, when its food has reached 0, can not be tamed in one go. If this is the case, the starve timer will count down until the food has reached 0. If the creature has a high enough food stat, the target food value will indicate when the creature has lost enough food to eat everything in one go. If you've then reached this target value, fill the creature up and watch it eat everything until tamed!",
-es:  "", 
+es:  "Algunas criaturas no tienen un nivel suficiente de comida para domarlos al quedar hambrientos. En ese caso, la comida objetivo se mostrará negativa e indicará que, en el momento que haya llegado a 0, el animal no será domado completamente. Si es el caso, el contador para dejar hambriento bajará hasta que el nivel de comida llegue a 0. Si la criatura tiene suficiente nivel de comida, la comida objetivo indicará el valor al que debe descender la comida para domarla completamente. Si ha alcanzado el nivel indicado, ¡introduce la comida en la criatura y observala como lo consume todo hasta ser domado! ",  //NEW
 en:  "How does the narcotic timer work?",
-es:  "", 
+es:  "¿Como funciona el contador de narcóticos?",  //NEW
 en:  "Simply put, the narcotic timer counts down from the given torpor amount until 0. You only have to fill in the creature's current torpor and press start for it to work.",
-es:  "", 
+es:  "En pocas palabras, el contador de narcoticos va bajando desde la incosciencia indicada hasta llegar a 0. Solo debes introducir la inconsciencia actual de la criatura y pulsar comenzar para hacerlo funcionar",  //NEW
 en:  "Tip: Make sure to set the alarm in a way that you will be able to reach the creature in time; it WILL wake up if it reaches 0.",
-es:  "", 
+es:  "Consejo: Asegurate de configurar la alarma de forma que seas capaz de de volver donde está la criatura a tiempo; si no, se DESPERTARÁ al llegar a 0",  //NEW
 en:  "What do the icons above the timer mean?",
-es:  "", 
+es:  "¿Que significan los iconos sobre el contador?", //NEW 
 en:  "You can toggle between the use of narcotics and narcoberries by using the icons above the timer. This will change the indications of the amount and time needed to fully refill the creature's torpor.",
-es:  "", 
+es:  "Puedes seleccionar el uso de narcóticos o narcoberries usando estos iconos. Esto calculará las cantidades y tiempo necesarios para llenar completamente el nivel de inconsciencia de la criatura",  //NEW
 
 //Breeding tab
 en:  "Breeding Information",
 es:  "Información de cría", //NEW
 en:  "The {0} is not breedable yet, or no information is currently known.",
-es:  "El {0} nopuede criar por ahora, o no hay información",  //NEW
+es:  "El {0} no puede criar por ahora, o no hay información",  //NEW
 en:  "Temperature Range",
 es:  "Rango de temperatura",  //NEW
 en:  "Total time",
@@ -355,7 +355,7 @@ es:  "Tipo",
 en:  "Rideable",
 es:  "Montable", //NEW
 en:  "Taming Method",
-es:  "Metodo de Tameo",
+es:  "Metodo de doma",
 en:  "Favorite Food",
 es:  "Comida Favorita",
 en:  "Total Food",
@@ -363,15 +363,15 @@ es:  "Comida Total",
 en:  "Food Rate",
 es:  "Ratio de Comida",
 en:  "Max Torpor",
-es:  "Torpor Máximo",
+es:  "Insconsciencia máxima", //CORRECTED
 en:  "Torpor Rate",
-es:  "Ratio de Topor",
+es:  "Ratio de inconsciencia", //CORRECTED
 en:  "Base Damage",
 es:  "Daño Base",
 en:  "XP on kill",
 es:  "XP en muerte",
 en:  "Affinity (Supplied / Needed)",
-es:  "Afinidad (Suminstrada / Necesaria)",
+es:  "Afinidad (Suministrada / Necesaria)",
 en:  "Common Location",
 es:  "Localización Común",
 en:  "Carryable by",
@@ -389,7 +389,7 @@ es:  "Drops", //NEW
 en:  "Star ratings are out of 5",
 es:  "Las estrellas de puntuación son sobre 5", //NEW
 en:  "For even more creature info check out the",
-es:  "",
+es:  "Para más información sobre las criaturas, comprueba",
 en:  "{0} Wiki Page!",
 es:  "Página {0} de la wiki", //NEW
 en:  "Argentavis",
@@ -407,13 +407,13 @@ es:  "Tapejara", //NEW
 en:  "General Info",
 es:  "Información en general",  //NEW
 en:  "Note that the calculations might not be perfect as the exact amounts of food depend on spoilage and stacksizes. Therefore it is recommended to use it as a guide instead of fully relying on the indicated times! (click to dismiss)",
-es:  "",
+es:  "Tenga en cuenta que los cálculos pueden no ser perfectos, ya que las cantidades exactas de alimentos dependen del deterioro y de la apilación en el inventario. Por lo tanto, ¡se recomienda utilizarlo como una guía en lugar de depender plenamente de los tiempos indicados! (Haga clic para descartar) ", //NEW
 en:  "Remainder",
 es:  "Recordatorio", //NEW
 en:  "Max",
 es:  "Máximo", //NEW
 en:  "The remainder is the amount of food you still need, based on your current progress. The amounts do not account for spoilage!",
-es:  "",
+es:  "El recordatorio es la cantidad de comida que todavía necesitas, basado en el progreso actua. ¡Las cantidades no tienen en cuenta el deterioro!", //NEW
 en:  "Progress",
 es:  "Progreso",
 en:  "Current weight",
@@ -433,29 +433,29 @@ es:  "Fase de bebé ({0}%)", //NEW
 en:  "Food until juvenile",
 es:  "Comida para joven", //NEW
 en:  "Desired buffer time (minutes)",
-es:  "",
+es:  "Tiempo de búfer deseado (minutos)",  //NEW
 en:  "Until desired",
-es:  "",
+es:  "Hasta que se desee",  //NEW
 en:  "The current buffer indicates how long the baby can last with the food it can hold, based on its current weight. You can input a desired buffer to see how long it takes until it reaches that buffer. The maximum buffer is the largest buffer that the baby can obtain at 10% of the maturation.",
-es:  "",
+es:  "El búfer actual indica cuanto tiempo puede mantenerse el bebé con la comida que puede cargar, basado en su peso actual. Puedes introducir el búfer deseado para ver cuanto tardaría hasta alcanzar ese búfer. El búfer máximo es el búfer mas grande que el bebé puede obtener al alcanzar el 10% de su crecimiento",  //NEW
 en:  "Imprinting",
-es:  "",
+es:  "Cuidando ",  //NEW
 en:  "% per action",
-es:  "",
+es:  "% por acción",  //NEW
 en:  "Actions needed",
-es:  "",
+es:  "Acciones necesarias",  //NEW
 en:  "Approximate",
-es:  "",
+es:  "Aproximado",  //NEW
 en:  "Only one player can imprint a newborn creature. Depending on the amount of care that person is able to give, the stats of the creature will gain additional bonuses!",
-es:  "",
+es:  "Solo un jugador puede cuidar a la criatura recien nacida. Dependiendo de la cantidad de cuidados que le procure, obtendrá bonus adicionales en las estadísticas de la criatura",  //NEW
 en:  "During the maturation of the creature, it will ask for care multiple times. You can see when the next moment will be by looking at the \"Wants care in\" text. Once that timer runs out, it will ask for one the following things:",
-es:  "",
+es:  "Durante la maduración de la criatura, esta solicitará cuidados varias veces. Puedes ver cuando volverá a pedirlos mirando en el indicador "\Requiere cuidados en\"",
 en:  "Wants a random kibble - put the requested kibble on slot 0 and press E",
-es:  "",
+es:  "Quiere un pienso aleatorio - pon el pienso solicitado en el slot 0 y presiona E",
 en:  "Wants a cuddle - walk up to it and press E",
-es:  "",
+es:  "Quiere un abrazo - acércate a él y presiona E",
 en:  "Wants to go for a walk - whistle it to follow and walk directly away from the creature (so not in circles!)",
-es:  "",
+es:  "Quiere ir a caminar - sílbale para que te siga y camina hacia el lado contrario a donde está la criatura (¡no en circulos!)",
 
 //Stats calculator
 en:  "Calculator",
@@ -483,15 +483,15 @@ es:  "Promedio", //NEW
 en:  "Above average",
 es:  "Promedio superior", //NEW
 en:  "Note: Speed is never increased pre-tame, meaning that all 'missing' points went into speed. The calculator therefore automatically puts all unused points into speed.",
-es:  "",
+es:  "Nota: La velocidad nunca crece en la pre-doma, esto significa que los puntos 'perdidos' se añadirán a la velocidad. Por lo tanto, la calculadora añadirá todos los puntos no asignados a la velocidad.",  //NEW
 en:  "Base (lvl 1)",
-es:  "",
+es:  "Base (nivel 1)",  //NEW
 en:  "Wild",
 es:  "Salvaje", //NEW
 en:  "Tamed",
-es:  "Tameado", //NEW
+es:  "Domado", //NEW
 en:  "Absolute speed values",
-es:  "",
+es:  "Valores absolutos de velocidad", //NEW
 en:  "Swimming",
 es:  "Nadando", //NEW
 en:  "Walking",
@@ -501,7 +501,7 @@ es:  "Volando", //NEW
 en:  "Sprint Wild",
 es:  "Corriendo salvaje", //NEW
 en:  "Sprint Tamed",
-es:  "Corriendo tameado", //NEW
+es:  "Corriendo domado", //NEW
 en:  "Base Experience",
 es:  "Experiencia base", //NEW
 en:  "Exp from kill (100%)",
@@ -511,7 +511,7 @@ es:  "Experiencia como conductor (50%)", //NEW
 en:  "Exp as mount (25%)",
 es:  "Experiencia como pasajero (25%)", //NEW
 en:  "Tip: You can change the amount of creatures by going to the settings page (click to dismiss)",
-es:  "",
+es:  "Consejo: Puedes cambiar la cantidad de critauras accediendo a la página de configuración (click para descartar)", //NEW
 en:  "Health",
 es:  "Vida",
 en:  "Stamina",
@@ -555,15 +555,15 @@ es:  "Ruptura", //NEW
 en:  "No resources needed or no items selected",
 es:  "No hay recursos necesarios o no hay objetos seleccionados", //NEW
 en:  "Reset",
-es:  "Resetear", //NEW
+es:  "Reiniciar", //CORRECTED
 en:  "Are you sure you want to remove all selected items?",
 es:  "¿Estás seguro que quieres eliminar todos los objetos seleccionados?",
 
 //Survivor Profile
 en:  "In the list above, you'll find all the available dossiers in the same order as they are displayed in the game. For quick reference, the colored names indicate whether you need to tame (blue) or kill (purple) the corresponding creature. A special case is the DodoRex, as it can only be unlocked during events.",
-es:  "",
+es:  "En la lista inferior puedes encontrar todos los expediente en el mismo orden que se muestran en el juego. Como referencia, los nombres coloreados indican si necesitas domar (blue) o matar (morado) la criatura correspondiente. Un caso especial es el DodoRex, ya que solo puede ser desbloqueado durante los eventos.", //NEW
 en:  "When you've unlocked a dossier, you can click on the corresponding icon to 'tick' it. That way you can keep track of the dossiers you've unlocked and can easily see which creatures you still have left to go!",
-es:  "",
+es:  "Cuando desbloquee un expediente, puede hacer ckick en el icono corresponiente para marcarlo. De esta manera, puedes seguir la pista de los expediente que has desbloqueado y ver que criaturas tienes pendientes", //NEW
 
 //Maps
 en:  "ARK Maps Overview",
@@ -603,7 +603,7 @@ es:  "Receta", //NEW
 en:  "Always use blueprint path (even if ID is available)",
 es:  "Usa siempre que esté disponible la ruta de la Receta",
 en:  "Tip: You can click on an item and it will copy the corresponding command to your clipboard. Commands can be adjusted by editing the fields above (click to dismiss)",
-es:  "",
+es:  "Consejo: Puedes hacer click en un objeto y se copiará el comando asociado en tu portapapeles. Se pueden ajustar los comandos editando los campos inferiores (click para descartar)", //NEW
 en:  "Random Lvl",
 es:  "Nivel aleatorio", //NEW
 en:  "or",
@@ -613,7 +613,7 @@ es:  "Nivel", //NEW
 en:  "Distance",
 es:  "Distancia", //NEW
 en:  "Tip: You can click on a creature and it will copy the corresponding command to your clipboard. Commands can be adjusted by editing the fields above (click to dismiss)",
-es:  "",
+es:  "Consejo: Puedes hacer click en una criatura y se copiará el comando asociado en tu portapapeles. Se pueden ajustar los comandos editando los campos inferiores (click para descartar)", //NEW
 en:  "Creature",
 es:  "Criatura", //NEW
 en:  "Color",
@@ -623,7 +623,7 @@ es:  "Comandos", //NEW
 en:  "Colors",
 es:  "Colores", //NEW
 en:  "Tip: You can click on a creature's region and it will copy the corresponding command to your clipboard. Commands can be adjusted by editing the fields above (click to dismiss)",
-es:  "",
+es:  "Consejo: Puedes hacer click en una región de la criatura y se copiará el comando asociado en tu portapapeles. Se pueden ajustar los comandos editando los campos inferiores (click para descartar)", //NEW
 en:  "Region {0}",
 es:  "Región {0}", //NEW
 en:  "This region is not available for this creature",
@@ -665,57 +665,57 @@ es:  "Rojo oscuro", //NEW
 en:  "White",
 es:  "Blanco",
 en:  "Dino Light Red",
-es:  "",
+es:  "Rojo claro para dinos", //NEW
 en:  "Dino Dark Red",
-es:  "",
+es:  "Rojo oscuro para dinos",  //NEW
 en:  "Dino Light Orange",
-es:  "",
+es:  "Naranja claro para dinos", //NEW
 en:  "Dino Dark Orange",
-es:  "",
+es:  "Naranja oscuro para dinos", //NEW
 en:  "Dino Light Yellow",
-es:  "",
+es:  "Amarillo claro para dinos", //NEW
 en:  "Dino Dark Yellow",
-es:  "",
+es:  "Amarillo oscuro para dinos", //NEW
 en:  "Dino Light Green",
-es:  "",
+es:  "Verde claro para dinos", //NEW
 en:  "Dino Medium Green",
-es:  "",
+es:  "Verde medio para dinos", //NEW
 en:  "Dino Dark Green",
-es:  "",
+es:  "Verde oscuro para dinos", //NEW
 en:  "Dino Light Blue",
-es:  "",
+es:  "Azul claro para dinos", //NEW
 en:  "Dino Dark Blue",
-es:  "",
+es:  "Azul oscuro para dinos", //NEW
 en:  "Dino Light Purple",
-es:  "",
+es:  "Morado claro para dinos", //NEW
 en:  "Dino Dark Purple",
-es:  "",
+es:  "Morado oscuro para dinos", //NEW
 en:  "Dino Light Brown",
-es:  "",
+es:  "Marrón oscuro para dinos", //NEW
 en:  "Dino Medium Brown",
-es:  "",
+es:  "Marrón medio para dinos", //NEW
 en:  "Dino Dark Brown",
-es:  "",
+es:  "Marrón oscuro para dinos", //NEW
 en:  "Dino Darker Grey",
-es:  "",
+es:  "Gris oscuro para dinos", //NEW
 en:  "Dino Albino",
-es:  "",
+es:  "Dinosario albino", //NEW
 en:  "BigFoot0",
-es:  "",
+es:  "BigFoot0", //NEW
 en:  "BigFoot4",
-es:  "",
+es:  "BigFoot4", //NEW
 en:  "BigFoot5",
-es:  "",
+es:  "BigFoot5", //NEW
 en:  "Wolf Fur",
-es:  "",
+es:  "Piel de lobo", //NEW
 en:  "Dark Wolf Fur",
-es:  "",
+es:  "Piel de lobo oscura", //NEW
 en:  "Search...",
-es:  "", //NEW
+es:  "Buscar...", //NEW
 en:  "Keep in mind that you need to use the EnableCheats command first before most of the commands will work on a multiplayer server! This is not necessary when playing singleplayer. Also note that some of the parameters have to be filled in by yourself (e.g. Steam64ID or PlayerUE4ID)",
-es:  "", //NEW
+es:  "Recuerda que debes usar el comando EnableCheats previamente para que los comandos se puedan usar en un servidor multijugador. Esto no es necesario cuando se juega en modo un jugador. También tenga en cuenta que ciertos parametros deben ser completados por usted (p.e. Steam64ID pr PlayerUE4ID)", //NEW
 en:  "Tip: You can click on a command to have it copied to your clipboard. (Click to dismiss)",
-es:  "", //NEW
+es:  "Consejo: Puedes hacer click en un comando para copiarlo en tu portapapeles (click para descartar)", //NEW
 
 //Dino harvesting / drops
 en:  "Dropped by",
@@ -723,7 +723,7 @@ es:  "Dropeado por", //NEW
 en:  "Top harvesters",
 es:  "Top cosechadores", //NEW
 en:  "Star ratings are out of 5 and based on tests. If you think something is incorrect or outdated, let me know!",
-es:  "", //NEW
+es:  "La puntuación máxima en estrellas es de 5 y está basado en pruebas. Si crees que algo es incorrecto o no está actualizado, ¡házmelo saber!", //NEW
 
 //Dino abilities
 en:  "Thatch",
@@ -755,111 +755,111 @@ es:  "Puerta Behemoth",
 
 //Achievements
 en:  "Artifact Archaeologist",
-es:  "",
+es:  "Artefactors arqueológicos",//NEW
 en:  "You personally retrieved all Eight Artifacts!",
-es:  "",
+es:  "¡Has recuperado personalmente los ocho artefactos!",//NEW
 en:  "In order to get this achievement, you'll need to collect every artifact in each of the caves. They need to loot the artifact from the loot crate in the cave and place them in your inventory for the game to register it correctly. This means that you cannot get this achievement by spawning in the items!",
-es:  "",
+es:  "Para obtener este logro, tendrá que recoger todos los artefactos en cada una de las cuevas. Necesita saquear el artefacto de la caja de botín de la cueva y colocarlos en su inventario para que el juego lo registre correctamente. ¡Esto significa que usted no puede conseguir este logro compartiendo los artículos!",//NEW
 en:  "Expert Survivor",
-es:  "",
+es:  "Sperviviente experto",//NEW
 en:  "You defeated ARK's second Ultimate Life Form!",
-es:  "",
+es:  "Has derrotado la segunda forma de vida definitiva de ARK", //NEW
 en:  "You get this achievement when you kill the Megapithecus in its boss arena. You can kill this in a team and still get the achievement if you do not deliver the final blow. However, it has been reported that the achievement does not trigger if you were mounted on a creature while the boss was killed.",
-es:  "",
+es:  "Obtendrás este logro cuando mates al Megapithecus en su zona de combate. Puedes matarlo en equipo y conseguir el logro incluso si no le da el golpe mortal. Sin embargo, se ha informado que el logro no saltará si está montado en una criatura cuando el jefe muera.", //NEW
 en:  "Fear Evolved - DodoRex Hunter",
-es:  "",
+es:  "Miedo evolucionado - La caza del Dodorex", //NEW
 en:  "You hunted down and slayed the elusive DodoRex, and claimed its army of Zombie Dodos!",
-es:  "",
+es:  "Has dado caza y asesinado al exclusivo DodoRex, ¡y has reclamado su ejercito de dodos zombies!",
 en:  "Originally, you got this achievement if you had defeated the DodoRex during the ARK: Fear Evolved event. However, it is also possible to get this achievement in various other events. Most of the later events make it possible to summon the DodoRex and this achievement might trigger for the person that summoned it (unfortunately, it does not work in every event).",
-es:  "",
+es:  "Originalmente, obtenías este logro si derrotabas al Dodorex durante el evento ARK: Fear Evolved. Sin embargo, también es posible obtener este logro en otros eventos. La mayoría de eventos permiten convocar al Dodorex y el logro se le otorgará a la persona que lo convoque (desafortunadamente, esto no funciona en todos los eventos).", //NEW
 en:  "Master Survivor",
-es:  "",
+es:  "Superviviente mestro", //NEW
 en:  "You defeated ARK's third Ultimate Life Form!",
-es:  "",
+es:  "¡Has derrotado a la tercera forma de vida definitiva de ARK", //NEW
 en:  "This achievement is obtained by defeated the Dragon in its boss arena. You do not need to deliver the final blow personally, meaning that you can take it on with a team and still get the achievement. However, it has been reported, much like the Megapithecus achievement, that you will not receive the achievement if you were mounted on a creature while the Dragon gets killed.",
-es:  "",
+es:  "Este logor se obtiene venciendo al Dragón en su zona de combate. No es necesario propinar el golpe mortal personalmente, lo que significa que puedes acabar con él en equipo y obtener el trofeo igualmetne. Sin embargo, se ha reportado, como con el logro del Megapithecus, que no se recibirá el logro si se está montando en una criatura en el momento en que se mate al Dragón.", //NEW
 en:  "Survivor Evolved",
-es:  "",
+es:  "Superviviente evolucionado", //NEW
 en:  "You've defeated ARK's first three Ultimate Life Forms! And yet...",
-es:  "",
+es:  "¡Has derrotado las primeras tres formas de vida definitiva de ARK! Y todavía...", //NEW
 en:  "Currently it is not known how to obtain this achievement. Even after you've killed the three bosses (Dragon, Megapithecus and Broodmother) this achievement does not trigger.",
-es:  "",
+es:  "Actualmente no se conoce como obtener este logro. Incluso después de derrotar los tres jefes (Drago, Megapithecus y BroodMother) este trofeo no ha saltado", //NEW
 en:  "Veteran Paleontologist",
-es:  "",
+es:  "Paleontólogo veterano",
 en:  "You unlocked the Dossiers of each of ARK's initial Specimens!",
-es:  "",
+es:  "¡Has desbloqueado los expedientes de cada espécimen inicial de ARK!", //NEW
 en:  "This achievement will be obtained after you've unlocked every dossier in your Survivor Profile (with the exception of the DodoRex). This means that you need to tame every creature that can be tamed and kill the creatures that cannot. Make sure that you are standing close enough when taming, or the dossier will not be unlocked. For killing, it is necessary to kill the creatures yourself and not with your mount to get the dossier. Currently you also need to kill the 3 bosses to fully unlock your survivor profile. For more information on which creatures to tame and kill, check out the survivor profile in the app.",
-es:  "",
+es:  "Obtendrás este logro después de haber desbloqueado todos los expediente en tu Perfil de Superviviente (a excepción del DodoRex). Esto significa que debes haber domado a cada criatura que se pueda domar y matado a cada una que no se pueda. Es necesario que tu personaje haya matado a la criatura sin montar ninguna criatura para que se añada al expediente. También es necesario haber eliminado a los 3 jefes finales para completar tu perfil de superviviente. Para más información sobre que criaturas domar y que criaturas matar, comprueba tu perfil de superviviente en la app.", //NEW
 en:  "Veteran Survivor",
-es:  "",
+es:  "Superviviente veterano",
 en:  "You defeated ARK's first Ultimate Life Form!",
-es:  "",
+es:  "¡Has derroado la primera forma de vida definitiva en ARK!",
 en:  "In order to get this achievement, you'll need to kill Broodmother Lysrix in its boss arena. Again, just as with the other bosses, you do not need to deliver the final blow yourself, so you can take it on with a team. However, do make sure that you are not mounted on a creature when the boss is killed, or you will not receive the achievement.",
-es:  "",
+es:  "Para conseguir este logro, necesitarás eliminar BroodMother Lysrix en su zona de combate. De nuevos, como con los otros jefes, no es necesario que des el golpe mortal por ti mismo, por lo que puedes acabar con él en equipo. Sin embargo, asegúrate que no estás montado en una criatura cuando el jefe sea derrotado o no recibirás el logro",
 
 //Diseases
 en:  "Swamp Fever",
-es:  "",
+es:  "Fiebre del pantano",
 en:  "A fever that you can contract from leeches in the swamp or other players.",
-es:  "",
+es:  "Fiebre que se puede contraer de las sanguijuelas del pantano o de otros jugadores",
 en:  "Effect",
-es:  "",
+es:  "Efecto",
 en:  "50% reduction in Food-, Water- and Oxygen consumption",
-es:  "",
+es:  "Reducción de la comida, agua y oxigeno en un 50% ",
 en:  "20% reduction in Health, Stamina, Melee Damage and Weight",
-es:  "",
+es:  "20% de reducción de vida, energía, daño cuerpo a cuerpo y peso",
 en:  "20% increase in Movement speed",
-es:  "",
+es:  "Incrementeo de un 20% en la velocidad de movimiento",
 en:  "A green haze is added to first-person view (and can be seen around a player's head in third-person view)",
-es:  "",
+es:  "Se añade un aura verde de la vista en primera persona (y se puede ver alrededor de la cabeza del jugador en la vista en tercera persona)",
 en:  "How to contract",
-es:  "",
+es:  "Como contraer",
 en:  "Direct contact with an infected Leech",
-es:  "",
+es:  "Contacto directo con sanguijuela infectada",
 en:  "Airborne transmission from infected other players or infected tamed dodos (on PvP)",
-es:  "",
+es:  "Transmisión aérea de otros jugadores infectados o de dodos infectados domados (en PvP)",
 en:  "Airborne transmission from infected tribemates (PvE)",
-es:  "",
+es:  "Transmisión aérea de compañeros de tribu infectados (PvE)",
 en:  "In order to not get covered with leeches while going to the swamp, it is advised to use Bug Repellant. While it is active, leeches will not attack you unless provoked.",
-es:  "",
+es:  "Para no acabar cubierto de sanguijuelas durante una visita al pantano, se recomienda el uso de repelente de insectos. Mientras esté activo, las sanguijuelas no te atacarán a menos que las provoques",
 en:  "Effect",
-es:  "",
+es:  "Efecto",
 en:  "How to contract the disease",
-es:  "",
+es:  "Como contraer la enfermedad",
 en:  "Cure",
-es:  "",
+es:  "Cura",
 en:  "Lesser Antidote",
-es:  "",
+es:  "Antídoto pequeño",
 en:  "After using the lesser antidote, you'll be immune for 3 minutes.",
-es:  "",
+es:  "Al usar el antídoto pequeño, serás inmune durante 3 minutos",
 en:  "Level required: {0}",
-es:  "",
+es:  "Nivel requerido {0}",
 en:  "Engram points: {0}",
-es:  "",
+es:  "Puntos de engrama: {0}",
 en:  "Ingredients",
 es:  "Ingredientes",
 en:  "Mortar & Pestle",
-es:  "",
+es:  "Mortero",
 en:  "Chemistry Bench",
-es:  "",
+es:  "Mesa de química",
 
 //Flyer Pickups
 en:  "The Pteranodon can pick up players and the small-sized creatures that are listed below.",
-es:  "",
+es:  "El Pteranodon puede cargar con jugadores y las criaturas pequeñas del listado inferior",
 en:  "The Argentavis can pick up everything the Pteranodon can and, in addition, the medium-sized creatures that are listed below.",
-es:  "",
+es:  "El Argentavis puede cargar lo mismo que el Pteranodo, y además, las criaturas de tamañao medio de la lista inferior",
 en:  "The Quetzalcoatlus can pick up everything the Pteranodon and Argentavis can and, in addition, the large-sized creatures that are listed below.",
-es:  "",
+es:  "El Quetzalcoatlus puede cargar lo mismo que el Pteranodon y el Argentavis, además de las criaturas de gran tamaño de la lista inferior",
 en:  "Not carry-able",
-es:  "",
+es:  "No se puede dargar",
 en:  "There are also creatures available that can (currently) not be carried. In general these include alpha-, flying- and water creatures.",
-es:  "",
+es:  "Hay criaturas que (actualmente) no pueden ser cargadas. En general estas incluyen alphas, voladoras y criaturas acuáticas",
 
 //Recipes
 en:  "Search for a dish",
-es:  "",
+es:  "Buscar un plato",
 en:  "Battle Tartare",
-es:  "",
+es:  "Tartar de batalla",
 en:  "Increases melee damage by 65%, speed by 50%, reduces damage taken by 15%, increases your stamina regeneration and makes you eat food 50% faster. Note; you will also lose 0.45 health per second (so 90 health in total) while it is active.",
 es:  "",
 en:  "Broth of Enlightenment",
@@ -1120,7 +1120,7 @@ es:  "",
 
 //Settings
 en:  "Taming Multipliers",
-es:  "Multiplicadores de Tameo",
+es:  "Multiplicadores de doma",
 en:  "The taming multipliers will be used for the taming calculator to adjust the values to your server's settings. On official servers these settings are all set to 1.",
 es:  "",
 en:  "Taming speed",
@@ -1208,7 +1208,7 @@ es:  "", //NEW
 
 //Contributors
 en:  "The people on this page have made contributions to the app. New contributions are always welcome! You can for instance help translate the app or send your own suggestions by using the buttons below!",
-es:  "",
+es:  "La gente en esta página hace contribuciones a la app. ¡Las nuevas contribuciones son siempre bienvenidas! Por ejemplo, puede ayudar a traducir la aplicación o enviar sus propias sugerencias mediante los botones inferiores", //NEW
 en:  "Help translate!",
 es:  "Ayuda a traducir", //NEW
 en:  "Send a suggestion!",
@@ -1216,9 +1216,9 @@ es:  "Envía una sugerencia", //NEW
 
 //Rate app modal
 en:  "Hi there! It seems you've been using the app for quite a while now.",
-es:  "",
+es:  "¡Hola! Parece que llevas usando la aplicación desde hace bastante tiempo.", //NEW
 en:  "If the app has helped you, I would really appreciate it if you could leave a rating or review if you haven't done so yet! That way I know the app is appreciated and it helps keeping the updates coming.",
-es:  "",
+es:  "Si la app te ha ayudado, ¡agradeceriamos muchísimo si puedes puntuarnos y/o dejar tu comentario si todavía no lo has hecho! De esta manera, sabremos que la aplicación es útil y nos animará a continuar actualizándola.", //NEW
 en:  "Sure, it's great!",
 es:  "¡Seguro!", //NEW
 en:  "Not now",
@@ -1236,17 +1236,17 @@ es:  "No",
 
 //No internet connection
 en:  "Oopsie!",
-es:  "",
+es:  "¡Oops!", //NEW
 en:  "There seems to be an issue loading the latest data. Make sure you are connected to the internet or try again in a moment.",
-es:  "",
+es:  "Parece que hay un problema cargando los últimos datos. Por favor, asegúrese de que está conectado a internet o inténtelo de nuevo en unos segundos.", //NEW
 en:  "When an internet connection has been established, the app will automatically refresh.",
-es:  "",
+es:  "Cuando se establezca la conexión a internet, la aplicación se actualizará automáticamente", //NEW
 en:  "It seems no internet connection could be established. Please check your connection and try again.",
-es:  "",
+es:  "No se puede establecer la conexión con internet. Por favor, revise su conexión e inténtelo de nuevo", //NEW
 
 //No search result
-en:  "Sorry, but we were not able to find what you were looking for. Make sure what you are searching for is spelled correctly and try again!"
-es:  "",
+en:  "Sorry, but we were not able to find what you were looking for. Make sure what you are searching for is spelled correctly and try again!",
+es:  "Lo siento, pero no hemos encontrado lo que estabas buscando. ¡Asegurese de que lo ha escrito correctamente y pruebe de nuevo!", //NEW
 
 //Days of the week 
 en:  "Sunday",
