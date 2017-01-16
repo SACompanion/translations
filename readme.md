@@ -12,6 +12,8 @@ When you're happy with your changes, open a [pull request](https://help.github.c
 Throughout the translations file, you will see some comments (preceded with `//`). These are there to give you an indication where the translation is used. That way, if you aren't sure about a translation, you can check if it would fit by going to the right part in the app. These comments should not be translated, as they are only used to give context to the rest of the words.
 ### Variables
 Sometimes you will run into constructs such as `{0}` or `{1}`. These are variables and should be included in your translation! Later on, the app will substitute these constructs by the appropriate words. An example would be this: `Level required: {0}` would become `Level required: 40` in the app. 
+### How to find untranslated text in a file
+If you come across a file that is almost fully translated and you want to help out with the last couple of words / phrases, the easiest ways to find untranslated ones is by searching for "", (so 2 double quotes and a comma) in the file. This will hightlight the phrases that haven't got a translation yet, making it easier to see them throughout the file.
 ## Additional info
 ### Want to help without use of GitHub?
 If you want to help translate the app to your language, but can't get it to work through GitHub or simply don't like using it: [send me a mail](http://www.survive-ark.com/contact) and we can discuss an alternative way! :)
@@ -27,17 +29,17 @@ In case you come across a part of the app that is not yet translated, please [op
 | Code | Language | Status |
 | ---- | -------- | -------- |
 | da | Danish | 0% |
-| de | German | **98%** |
+| de | German | **90%** |
 | el | Greek | 0% |
 | en | English | **100%** |
-| es | Spanish | **10%** |
-| fr | French | **100%** |
+| es | Spanish | **90%** |
+| fr | French | **90%** |
 | it | Italian | 0% |
 | ja | Japanese | 0% |
-| nb | Norwegian | 0% |
+| nb | Norwegian | **20%** |
 | nl | Dutch | 0% |
 | pl | Polish | **5%** |
 | pt | Portuguese | **10%** |
-| ru | Russian | **100%** |
+| ru | Russian | **90%** |
 | tr | Turkish | 0% |
 | zh | Chinese (Simplified) | 0% |
