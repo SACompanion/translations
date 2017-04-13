@@ -31,13 +31,14 @@ In case you come across a part of the app that is not yet translated, please [op
 | da | Danish | 0% |
 | de | German | **90%** |
 | el | Greek | 0% |
-| en | English | **100%** |
+| en | English | **90%** |
 | es | Spanish | **90%** |
 | fr | French | **90%** |
 | it | Italian | 0% |
 | ja | Japanese | 0% |
 | nb | Norwegian | **20%** |
 | nl | Dutch | 0% |
+| fa | Persian (Finglish) | 0% |
 | pl | Polish | **5%** |
 | pt | Portuguese | **10%** |
 | ru | Russian | **90%** |
